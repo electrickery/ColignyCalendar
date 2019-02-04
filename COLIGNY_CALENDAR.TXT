@@ -178,7 +178,7 @@ ATENOVX
 [XII    M D              ]
 [XIII     D        AMB   ]
 [XIIII  M D              ]
-[XV       N
+[XV       N              ]
 
 #COLUMN-2 TOP HALF
 #MONTH-3 YEAR-1
@@ -633,7 +633,7 @@ ATENOVX
 [III        D  AMB IV]OS
 [IIII     M D  IVOS  ]
 [V   TII D AMB IVOS ]
-[VI  ITTT M D     ]
+[VI  ITT M D     ]
 [VII IIT    D   A]MB
 [VIII       D] PETI(N)VX ANAG
 [VIIII      D   AMB
