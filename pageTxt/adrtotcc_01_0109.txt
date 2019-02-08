@@ -1,0 +1,40 @@
+
+ M RIVROS MAT
+
+ I            D ANAGANTIO
+ II           PRINNI LOVD
+[III]       M D
+[IIII       M D TR]ICIO RIVRO
+[V            N  INIS R]
+[VI         M D             ]
+[VII        M D             ]
+[VIII         PRINNI LOVD   ]
+[VIIII        N             ]
+[X          M D             ]
+[XI           N  INIS  R    ]
+[XII        M D             ]
+[XIII MD DECIOMIV G RIV IVO ]
+[XIIII      M D     IVOS    ]
+XV          M D     IVOS    ]
+
+[ATENOVX   ]
+
+[I          M D      EXIVOS ]
+[II         M D        IVOS ]
+[III          N        IVOS ]
+[IIII       M D        IVOS ]
+[V            D   AMB  IVOS ]
+[VI   {IIT  M D}            ]
+[VII          D   AM]B
+[VIII       D PETV]RIV() ANAG
+[VIIII        D   AM]B
+[X          M D PETI(N)VX RI]VRI
+[XI   TII     D   AMB   IVOS]
+[XII  ITI   M D         IVOS]
+[XIII IIT     D   AMB   IVOS]
+[XIIII      M D         IVOS]
+[XV           D   AMB   IVOS]
+
+#COLUMN-14 BOTTOM HALF
+#MONTH-3 YEAR-5
+#page 109

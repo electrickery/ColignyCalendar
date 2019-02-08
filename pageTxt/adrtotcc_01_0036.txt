@@ -1,0 +1,45 @@
+36 Reconstructed Text of the Coligny Calendar
+
+in these two months LAGET occurs twice: once on day | and day 2
+respectively, and again on day 7 and day 8 respectively.
+
+There are 60 regular months (+ 2 intercalary months) in the
+five-year period shown on the calendar. Since 30 of the 60 regular
+months are ANM (6 out of 12 in any given year), the complete PRINNI
+count would not be reached until the end of a five-year period.
+Nonetheless, by switching from the /oudin series to the laget series and
+vice versa, which adds three days at each shift, day 30 is actually
+reached in half that time.
+
+Because of its usage on a calendar, LAGET might be seen to
+be cognate with Irish Jog "flame. It also might be seen to derive from
+an extended form of IE *plo- "bright, to burn, warm" (IEW: 805),
+possibly giving Welsh go-/eu "light". But these suppositions do not suit
+well the fact that for 26 out of 29 days, the counting takes place in the
+six months from Giamonios to Samonios, a period when the solar
+pathway is daily apparently lowering in the sky. As we have seen,
+Giamonios and Samonios mark the two solstices of the year. Dividing
+the year into two halves at the solstices does not create a bright and a
+dark half. Thus these etymologies have little conviction.
+
+The important consideration in a calendar oriented around the
+two solstices is that in the northern hemisphere the sun is rising in the
+sky (heading north) for the six months of the year between the summer
+solstice and the winter solstice and falling in the sky (heading south)
+for the six months between the summer solstice and the winter solstice.
+Thus the solstices divide the year into two periods, from midwinter to
+midsummer when the sun is daily rising in the sky or waxing, and from
+midsummer to midwinter when the sun is daily getting lower in the sky
+or waning.
+
+Thurneysen (1899, 529) sought an etymology for LAGET in
+Irish laigiu and Welsh /lai "smaller" and in Irish Jagat "diminution,
+smallness" from IE */gyh-, Celtic *lag-, (IEW: 661), apparently
+combined with the adjectival suffix -ito-. I believe he was essentially
+correct. The LAGET counting of the solar path then takes place in the
+six months of the year when the sun is declining in the sky and when
+the daytime is decreasing, from the summer solstice to the winter
+solstice. Thus it seems certain that LAGET indicates "diminishing".
+This etymology would then confirm that the summer solstice occurs in
+Giamonios.
+

@@ -1,0 +1,40 @@
+
+ M RIVROS MAT
+
+ I            D   ANAG
+ II           PRINNI  LOVD
+ III          N
+ IIII       M D   TRIC RIV
+ V            N    INIS  R
+ VI         M D
+ VII        M D
+ VIII         PRINNI LO[VD
+ VIIII ITI  M D       [      ]
+ X     IIT  M D      [       ]
+[XI           N   INIS  R    ]
+[XII        M D              ]
+ X[III M D DECIOMIV G RIV IVO]
+ XIIII[       NSDS MAT   IVOS]
+ XV         _ N[SDS MAT _IVOS]
+
+ ATENO[VX   ]
+
+ I          M D[IIT    EXIVOS]
+ II          M D  [      IV]OS
+ III           D AM[B]   I[VO
+ IIII        M D   [IVO ]
+ V     TII     D AM[B]   IVO
+ VI    ITT   M D
+ VII   IIT     D AMB
+ VIII          D PETRVRIV()ANAG
+ VIIII         N
+[X     PETV]RIV()RIVRI IIT M D
+[XI     TII    D AMB]   IVOS
+[XII   {ITI  M D}      I]VOS
+[XIII   IIT    D AMB   ]IVOS
+ X[IIII      M D      ] IVOS
+ XV[           D AM]B   IVOS
+
+#COLUMN-8 TOP HALF
+#MONTH-3 YEAR-3
+#page 83

@@ -1,0 +1,49 @@
+4 Reconstructed Text of the Coligny Calendar
+
+The foremost question in my mind at the time of my original
+study was whether or not in every instance there actually was room
+enough in the lacunae separating the surviving fragments of the
+calendar to contain the missing notation suggested by the patterns
+apparent in the surviving notation. The actual computer-generated
+photographic reconstruction of the calendar presented here was
+developed to alleviate these concerns.
+
+Using a photo-processing program (Adobe Photoshop V)
+segments duplicating the missing notation were copied from surviving
+fragments of the Coligny calendar and then were utilized to fill in the
+missing sequences on the calendar maintaining the original spatial
+integrity of the fragmentary mosaic (originally reproduced digitally at
+high resolution from the RIG: III originals to %4 scale and 1200 dpi
+halftone, but of necessity depicted here at much lower resolution in the
+month plates to % scale and 300 dpi grayscale to comply with the
+printer’s specifications and shown in plates 2 and 3 at about ¥% scale).
+Indeed, the original fragmentary mosaic (plate 2) is still embedded in
+the digitally-reconstructed whole calendar (plate 3). Thus the fragmen-
+tary calendar was brought to photographic completion utilizing the
+original wording and engraving to be found on the surviving fragments.
+
+As the photographic reproduction presented here actually
+preserves the original fragments of the calendar, the typescript
+reconstruction presented in my1992 study is shown to be one which fits
+within the parameters of the original calendar and lines up with the
+surviving notation. The reconstruction of the calendar based upon the
+date patterns of the surviving notation presented in my previous studies
+do indeed fit convincingly within the lacunae. Furthermore, these
+reconstructions fit within the alignments for the notation worked out by
+the original engravers of the calendar.
+
+Except for a few insignificant changes in word order or in the
+wording of the abbreviations probably utilized in specific locations, in
+only a single instance was a correction in the nature of the notation
+developed in my 1992 study actually necessary. On day 5 of month 12
+Cantlos in year 5 (see plates) the IIT notation should not be indicated
+alongside of N, even though IIT is the correct mark for that date. It is
+also now clear that the fuller phrase DS MA NS cannot occur on day
+15 of month 5 Ogronios in year 3 (as suggested in my 1992 study)
+simply because there is not enough room in the lacuna, and the shorter
+abbreviation NS DS for the same term must have been used here
+instead.
+
+But for these minor corrections having no significance for the
+operation of the calendar, this computer-driven photographic recon-
+

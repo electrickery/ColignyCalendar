@@ -1,0 +1,39 @@
+
+[M OGRON] MAT
+
+[I         M D]
+[II        M D]
+[III         PRINNI]LOVD
+[IIII      M D     ]
+[V           N   INI]S R
+[VI        M D     ]
+[VII       M D            ]
+[VIII      M D            ]
+[VIIII     M D            ]
+[X         M D            ]
+[X]II      M D[           ]
+ XIII      M D    [       ]
+ XIIII     M D     [      ]
+ XV        M D        [   ]
+
+ ATENOVX
+
+ I         M D  QVTIO
+ II        M D  QVTIO
+ III         D  AMB QVTIO
+ IIII      M D
+ V           D   AMB
+ VI   IIT  M D
+ VII         D
+ VIII      M D   QVTIO
+ VIIII       D   AMB
+ X         M D
+ XI          D   AMB
+ XII         N   INIS R
+ XIII  ITI   D   AMB
+ XIIII IIT   M D
+ XV          D   AMB
+
+#COLUMN-15 TOP HALF
+#MONTH-5 YEAR-5
+#page 111

@@ -1,0 +1,45 @@
+18 Reconstructed Text of the Coligny Calendar
+
+each month during the 30 months between each intercalary month. The
+N notation, found at dates increasing by 1 day each month, counts out
+this fall-back of the sun during a given 30-month period. On average
+the N’s actually count only 27 days in each 2 1/2-year (30-month)
+period, since a block of 6 days is skipped in each 5-year (60-month)
+period. Thus both the intercalary-month notation and the N notation
+fall on the same days of the month (but in differing years), although
+each is an independent aspect of the way the calendar deals with this
+solar fall-back. The similarity between the two items arises from the
+fact that both the intercalary-month notation and the N-notation
+independently increase a day for each month traversed, thus falling on
+Samonios 1, Dumannios 2, Rivros 3, etc., each attempting to keep track
+of the actual solar path.
+
+To fully comprehend this situation, we must first examine the
+actual solar and lunar pathways of the 30-year Gaulish cycle mentioned
+by Plinius. In the course of a year (365.2422 days) the sun lags behind
+12 lunar months (354.3671 days) by 10.8751 days, and in the course of
+5 years (1826.21 1 days) it lags behind 60 lunar months (1771.835 days)
+by 54.376 days (see table 45a). However, if 1 intercalary exact lunar
+month (29.531 days) is added to the 60 months to make up the 5-year
+period, the sun will lag behind exact lunar time by only 24.845 days.
+If 2 intercalary exact lunar months are added, the sun will then be able
+to leap ahead of exact lunar time by 4.686 days every 5 years. Five
+such 5-year phases each with 2 intercalary months (5 X 4.686 = 23.430
+days) will therefore come within 1.42 days of making up for one initial
+5-year phase with 1 intercalary month (with 24.845 days fall-back).
+
+Calendars, however, must deal with an whole number of days.
+In a calendar with 1831 days in 62 months (as opposed to the exact
+lunar cycle above with 1830.897 days in 62 months), since there are
+1826.211 days in 5 solar years, the solstices will occur earlier by 4.789
+days (1831 - 1826.211) every 5 years rather the 4.686 days of the
+perfect lunar calendar above. Five of these 1831-day phases thus add
+23.945 days. However, an initial phase of 1801 days will lose 25.211
+days (1826.211 -1801). In this 30-year calendar, these five 1831-day
+phases, each generating 4.789 days, gradually eat away this initial
+25.211-day fall-back. Thus the 30-year cycle will consist of a total of
+five 1831-day 5-year phases added to an initial 1801-day 5-year phase.
+As the total from the last five 5-year periods is not quite equal to the
+initial fall-back of the first 5-year period, the sun will fall back 1.266
+days (25.211 - 23.945) over the whole 30-year cycle.
+

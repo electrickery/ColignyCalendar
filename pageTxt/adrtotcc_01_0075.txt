@@ -1,0 +1,39 @@
+
+[M GIAM] ONT A[NM]
+[I       M  D SIMIVS EXO IVO]
+[II         D       IVO     ]
+[III        D       IVO     ]
+[IIII       D               ]
+[V          D        AMB    ]
+[VI      M  D               ]
+ VII       [PRINNI N LAG    ]
+ VIII      [D               ]
+ VIIII      N[  INI    R    ]
+ X          D[              ]
+ XI         D [      AMB    ]
+ XII        D    [          ]
+ XIII       D    [          ]
+[X]IIII     D    [          ]
+ XV         D    [          ]
+
+ ATENOVX
+
+ I          D
+ II       NSDS
+ III        D        AMB
+ IIII  TII  D
+ V     ITI  D        AMB
+ VI    IIT  D
+ VII        N   INI    R
+ VIII       N   INI    R
+ VIIII      D   AMB
+ X     TII  D
+ XI         N   INI    R
+ XII   IIT  D
+ XIII       D   AMB
+ XIIII      D
+   DIVORTOMV
+
+#COLUMN-6 TOP HALF
+#MONTH-7 YEAR-2
+#page 75

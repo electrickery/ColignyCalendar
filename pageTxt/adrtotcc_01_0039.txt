@@ -1,0 +1,44 @@
+Reconstructed Text of the Coligny Calendar 39
+
+months occur that year. The meaning of the term is clearly "month".
+However, according to Pokorny Irish mi "month" derives from *méns
+(IEW: 732), supposedly also giving Welsh mis and Breton miz,
+although Thurneysen (1899: 525) saw *midx as the Celtic root behind
+these Insular Celtic forms as well as the MID on the Coligny calendar.
+Lambert (1996: 110) agrees with Thurneysen in seeing a “d barré”
+
+behind the Celtic forms, thus *mids.
+N: *noux: "night".
+
+Thurneysen (1899, 527) argued that as D stands for *diuos
+"day", so N should stand for *noux “night” (IE *noky-t-s; IEW: 762).
+On the calendar the use of the term noux in tri(tio)noux and atenoux
+rather than an expected *nox seems clear. An analysis of the distribu-
+tion shows that N is used to count around to the solstices which will
+occur in the intercalary months (see Olmsted 1992: table 36). NS in the
+term NSDS is clearly not a fuller form for N, for Int-2 day 15 shows a
+point of separation between the N and the S in DS MA -N - S.
+Reconstructing NS as an abbreviation of *nouxus for "night", as Pinault
+(1961: 158) has suggested, finds no support.
+
+In NSDS, where DS presumably stands for *divos "day", N for
+*noux "night" is followed by another term S, probably for *sonno "of
+the sun". Thus NS would be *noux sonno “night of the sun". In the N-
+counting scheme, used to count around the intercalary solstices, N
+marks the day each month that the sun falls behind the calendar and the
+moon. Here N clearly stands for, and could be expanded to, the longer
+term NS for *noux sonno, "night of the sun". However, as the N
+scheme is different from the TI scheme, which utilizes NS with some
+regularity, I leave the N in that series unexpanded to clearly differenti-
+ate the N count from the TI count. During a *noux sonno "night of the
+sun’, the sun presumably was assumed to travel backward during the
+night retracing in reverse the progress of the previous day. Thus
+following a *noux sonno the sun would take a day longer in its
+trajectory.
+
+NS: *noux sonno: "a night of the sun".
+This term occurs in the abbreviated phrase NSDS. It would
+
+seem to be implied as well in the single notation N used in the N-
+counting scheme outlined above (see Olmsted 1992: table 18). It is also
+

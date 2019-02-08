@@ -1,0 +1,49 @@
+12 Reconstructed Text of the Coligny Calendar
+
+To keep track with the sun the TI] counting scheme must limit
+the 30-month count to 27 days. This limitation is achieved by the use
+of alternating anomalous day counts, which occur every other time the
+solar fall-back count reaches day 28 (see 1992: tables 28b-d). In the
+anomalous count the ANM months are used in the /oudin half of the
+year in place of the normally utilized MAT months, and the MAT
+months are used in the /aget half of the year in place of the normally
+utilized ANM months. Rather than skipping forward and adding 3 days
+at the solstice, the anomalous marks then count days 29 and 30 around
+to day 1 for the next solstice in Samonios or Giamon. Through such a
+scheme only 27 days are counted in each 30-month period (Olmsted
+1988: table 10a; 1992: table 32).
+
+The distribution of the marks TI, ITI, and IT are determined
+by the latest of these solstice counting schemes, for which these marks
+actually form the counting sequence (1988: tables 6a-b). The greater
+complexity of this TII counting scheme is in itself an indication of its
+final stage in the developmental sequence. Rather than a TI mark, the
+notation prinni loudin and prinni laget count out days 1 to 8 of the
+solar pathway for the first 25-year cycle. Although the TI marks have
+a distribution analogous to that of the N found in the N-counting
+scheme, the reconstructed sequence of the mark TII simply continues
+the counting pattern from days 9 to 30 of the prinni loudin and prinni
+laget notation. But note that the ITI and IIT marks, which begin at days
+2 and 3 and go through day 30, count out the second and third 25-year
+cycles respectively.
+
+The total scheme for the whole TI, ITI, IIT series generates
+marks at 510 days (of which more that 200 survive, distributed
+randomly because of the random mosaic of the surviving pieces of the
+calendar). Thus for the first 25-year cycle, prinni loudin and its
+associated TII marks count the 30 MAT months found in the 5 years of
+the calendar, and prinni laget and its associated TII marks count the 30
+ANM months. For the second 25-year cycle the ITI marks do the
+counting, and for the third 25-year cycle the ITT marks do the counting.
+
+Since nearly 200 marks survive and fit this simple recon-
+structed pattern, also found in the PRINNI notation, there can be no
+doubt in the reconstruction itself. The pattern is perfect with all of the
+marks either surviving in their proper place and sequence or fully
+reconstructable with lacunae in the appropriate places. With the
+possible exception of the distribution of D AMB, the reconstruction of
+the TI marks is perhaps the most certain item on the calendar.
+
+However, with the conclusively-verified total of 1832 days in
+a 62-month period, as noted above, the moon runs 1 day ahead of the
+

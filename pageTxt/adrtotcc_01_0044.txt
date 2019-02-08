@@ -1,0 +1,44 @@
+44 Reconstructed Text of the Coligny Calendar
+
+solstice, and the rising sun series is assumed to continue even following
+the summer solstice.
+
+PRINNI LAGET thus probably refers to the "diminishing,
+lowering, or waning pathway or (day)time". PRINNI LOVDIN, on the
+other hand, probably refers to the "mounting up, increasing, or waxing
+[solar] pathway or (day)time." These terms may then simply be
+rendered as the "waning pathway" or "decreasing daytime" for PRINNI
+LAGET and the "waxing pathway" or "increasing daytime" for PRINNI
+LOVDIN.
+
+The PRINNI count may be outlined as follows (Olmsted 1992:
+table 28a). The count shifts between the MAT and ANM months at the
+half-year boundaries. At each such boundary shift, the count adds 3
+days. The anomalous days 29 and 30 are used after the first occurrence
+of day 28 as a solstice in the intercalary month MI2, and they are not
+used on the next occurrence of day 28 at Qutios M6. They then are
+used after the first incidence of solstice day 28 in Cantlos A12, but they
+are not used after the next day 28 in Cantlos A12 following. They then
+are used following solstice day 28 in Qutios M6 and are not used on the
+next day 28 in Qutios M6 following, and so on repeating this constant
+pattern. The anomalous days 29 and 30 thus alternate in occurring and
+not occurring following solstice day 28.
+
+Similarly solstice day 28 first falls twice in month M6, the first
+time counting 29 and 30, the second time not. It then falls twice in
+month A12, the first time counting 29 and 30, the second time not.
+After the anomalous days 29 and 30, the PRINNI will always fall on a
+solstice on day 1. If the anomalous days 29 and 30 do not occur (as in
+year 6), the PRINNI will always fall on a solstice on day 7. By this
+simple alternating scheme the calendar always follows the solstices.
+
+To determine in which month a solstice occurs, a simple rule
+is also followed. The solstices occur in Samonios (M1) and Giamonios
+(A7), except when an intercalary month (MI) occurs. The solstice
+always falls in an intercalary month when this occurs. After the
+intercalary month the prinni series counts in the regular fashion
+indicated above until day 28, 29, or 30 is reached. Until these days are
+reached, the solstices then fall in Cantlos (A12) and Cutios (M6). After
+the count reaches 30, it reverts back to the M1 and A7 scheme of the
+beginning.
+

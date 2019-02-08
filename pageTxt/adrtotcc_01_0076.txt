@@ -1,0 +1,40 @@
+
+ M SEMIV[IS MAT ]
+
+[I         GIAMO PRINI LAG  ]
+[II        M D              ]
+[III         D EQVI         ]
+[IIII      M D              ]
+[V           N INIS R       ]
+[VI          D EQVI         ]
+[VII  IIT  M D TIOCOBREXTIO ]
+[VIII        N              ]
+[VIIII     M D SINDIV IVOS  ]
+[X         M D              ]
+[XI   TII    D AMB          ]
+ X[II ITI  M D              ]
+ XIII [      D     EQVI     ]
+ XII[II      D     EQVI     ]
+ XV          D     EQVI
+
+ ATENOVX
+
+ I           D EQVI
+ II          D EQVI
+ III         D AMB EQVI
+ IIII  IIT M D
+ V           D     AMB
+ VI    IIT   D EQVI
+ VII         D AMB
+ VIII  TII M D
+[VIII]I ITI  D AMB
+[X    II]T M D
+[XI        ] D AMB
+[XII       M]D
+[XIII        D]AMB
+[XIIII     NSD]S MAT
+[XV        NSD]S AMB
+
+#COLUMN-6 TOP HALF
+#MONTH-8 YEAR-2
+#page 76

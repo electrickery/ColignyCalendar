@@ -1,0 +1,40 @@
+
+ M DVMAN ANM
+
+ I    SAMON PRI(N L)OVD IXIVOS
+ II           N        IVOS
+ III          D        IVOS
+ IIII         D        IVOS
+ V           [P]RINNI LAGET
+[V]I      [   D]
+[VII]         N    INIS   R
+ VIII   ITI M D   SAMONI
+ VIIII        D
+ X            D
+ XI           N   INIS    R
+ XII          D
+ XIII         D
+ XIIII        D
+ XV           D
+
+ ATENOVX
+
+ I          M D    SAMONI
+ II         M D    SAMONI
+ III    ITI   D      AMB
+ IIII   IIT   D
+ V            D      AMB
+ VI     IIT M D 
+ VII          D       AMB
+ VIII   TII   D
+ VIIII        N   INIS   R
+ X      IIT   D
+ XI           D        AMB
+ XII          N   INIS   R
+ XIII         D        AMB
+ XIIII        NSDS
+     DIVERTOMV
+
+#COLUMN-4 BOTTOM HALF
+#MONTH-2 YEAR-2
+#page 70

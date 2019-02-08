@@ -1,0 +1,40 @@
+
+M EQVOS ANM
+
+ I          D     IVOS
+ II       PRINI LAG IVOS
+ III     M  D  SIMI IVOS
+ IIII       D       IVOS
+ V          D      AMB
+ VI      M  D SIMIVISO
+ VII        D ELEMBI
+ VIII       D ELEMBI
+ VIIII      D ELEMBI
+ X          D
+ XI         D      AMB
+ XII        D
+ XIII    M  D SEMIVIS
+ XIIII    M D SEMIVIS
+ XV       M D SEMI GANO R
+
+ATENOVX
+
+ I       M  D SEMIVIS
+ II      M  D SEMIVIS
+ III        D AMB SIMIVIS
+ IIII       D
+ V      TII D      AMB
+ VI     IIT D SIMISO
+ VII    ITI D ELEM AMB
+ VIII   IIT D ELEMB
+ VIIII      D AMB ELEM
+ X          D
+ XI     TII D      AMB
+ XII    ITI D
+ XIII   IIT D      AMB
+ XIIII      D
+ XV         D      AMB
+
+#COLUMN-3 BOTTOM HALF
+#MONTH-9 YEAR-1
+#page 65

@@ -1,0 +1,40 @@
+
+[N RIVR] OS MAT
+
+[I           D A]NAGANT
+[II          PRINN]I LOVD
+[III         N]
+[IIII      M D TRI]C RIVROS
+[V           N I]NIS    R
+[VI        M D]
+[VII       M D]
+[VIII      PRI]NNI LOVD
+[VIIII ITI M D]
+[X     IIT D]M
+[XI          N] INIS    R
+[XII         N]
+[XIII MD DECIO]MIV G RIV[IVO]
+[XIIII      DS MA*N*S] IVO[S ]
+[XV        {DS MA*N*S} IVOS  ]
+
+[ATENOVX     ]
+
+[I    IIT M D  EXIVOS        ]
+[II       M D    IVOS        ]
+[III        D  AMB IV]OS
+[IIII     M D  IVOS  ]
+[V   TII D AMB IVOS ]
+[VI  ITT M D     ]
+[VII IIT    D   A]MB
+[VIII       D] PETI(N)VX ANAG
+[VIIII      D   AMB
+ X   IIT  M D  PETI(N)VX RIVRI
+ XI  TII    D   AMB       IVOS
+ XII ITI  M D             IVOS
+ XIII IIT   D   AMB       IVOS
+ XIIII    M D             IVOS
+ XV         D   AMB       IVOS
+
+#COLUMN-5 TOP HALF
+#MONTH-3 YEAR-2
+#page 71

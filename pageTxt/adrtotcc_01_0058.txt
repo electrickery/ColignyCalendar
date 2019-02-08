@@ -1,0 +1,40 @@
+
+[M DVMAN ANM    ]
+
+[I      SAMON PRINI LOVD    ]
+[II       D                 ]
+[III      D                 ]
+[IIII     D]
+[V    PRINNI L]AGET AMB
+[VI   ITI D]
+[VII    M D] RIVRI
+[VIII  PRINI]RIVRI
+[VIIII  M]D  RIVRI
+[X       ]D
+[XI     N]INIS  R
+[XII  ITI]D
+[XIII IIT D]  IVOS
+[XIIII    D   IVOS
+[XV       D   IVOS          ]
+
+[ATENOVX      ]
+
+[I      M D SAMONI   IXIVOS]
+[II     M D SAMONI   IVOS  ]
+[III]ITI [D AMB      IVOS  ]
+[II]II II[T D        IVOS  ]
+ V     [  D AMB      IVOS  ]
+ VI  II[T M D              ]
+ VII   [  D RIVRI AMB      ]
+ VIII  [  D PET(V)RIV  ANAG]
+ VIIII [  D RIVRI AMB      ]
+ X   II[T D                ]
+ XI    [  D     AMB  IVO   ]
+ XII   N [INIS    R  IVO   ]
+ XIII  [ ]D     AMB  IVO 
+ XIIII   NSDS   IVO
+     DIVERTIOMV
+
+#COLUMN-1 BOTTOM HALF
+#MONTH-2 YEAR-1
+#page 58

@@ -1,0 +1,40 @@
+
+ M ELEMBIV ANM
+
+ I          D        IVO
+ II         D        IVO
+ III        PRINNI LAG IVO
+ IIII       D        IVO
+ V          D (AMB)  IVO
+ VI         D (   )
+ VII        D
+ VIII       D
+ VIIII      PRINNI LAG
+ X          N INI R
+ XI         D AMB
+ XII        D
+ XIII       D
+ XIIII      D
+ XV         N
+
+ ATENOVX
+
+ I        M D EDRINI
+ II       M D EDRINI
+ III   TII  D AMB EDRIN
+ IIII       D 
+[V ]        D   AMB
+[VI    IIT] D
+[VII        D]   AMB [   ]
+[VIII       D            ]
+[VIIII      D  AMB       ]
+[X          D            ]
+[XI         D    AMB     ]
+[XII   TII  D            ]
+[XIII  ITI  D     AMB    ]
+[XIIII IIT  D            ]
+[DIVERTOMV               ]
+
+#COLUMN-6 BOTTOM HALF
+#MONTH-10 YEAR-2
+#page 78

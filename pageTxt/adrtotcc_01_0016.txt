@@ -1,0 +1,45 @@
+16 Reconstructed Text of the Coligny Calendar
+
+and Rivros 4 at Rivros 10a. To emphasize that such an exchange has
+taken place that this is actually day 10a or Rivros rather than day 13,
+the usual Roman numeral has been left off of the beginning of this day,
+the only instance of leaving off the day number on the calendar. Clearly
+DECIOMIV “the tenth” goes in place of the expected XIII “the
+thirteenth”.
+
+Even without the DEWORIV of Rivros 12 year 1, correctable
+to DECIOMIV on analogy with OC(T)IOMV above, one may
+reconstruct the form [DECIO]MIV for the ordinal numeral designation
+of the day now found at Rivros 13 year 2, since we know that this day
+was transferred from Rivros 10a year 2. The form [DECIO]MIV
+guarantees that the R or RI of DEWORIV should be corrected to an M
+and that our surmise, above, was correct. This reconstruction would
+then project a Gaulish ordinal numeral *deciomo-s, *deciamo-s "the
+tenth" corresponding to IE *dekemo-s (IEW: 192), an alternative to the
+attested Gaulish decametos, decometos corresponding to IE *dekm-to-s
+(IEW: 192). The La Graufesenque sherds give decometos as well as
+decametos (Lambert 1996: 131). Latin preserves a similar form
+decimus "tenth" (see Buck 1933: 230-1), but an older form decumus
+also survives. As a Celtic form *decuomios seems less likely than
+*deciomios, the I is probably a better reading than the V for the
+DECIOMIV/DECVOMIV indicated by conflating the forms on the
+calendar. I would speculate that all these ordinal numeral forms in
+-iamo- or -iomo- applied only to the days of the month, while the other
+forms in -am-eto- applied to adjectival applications of the ordinals.
+Otherwise, we may be simply viewing a dialect variation or an
+archaism.
+
+Since Rivros day 4 originally comes from Rivros day 13, one
+would then expect the ordinal numeral for day 13 to occur here. If
+BRIC is seen as an error for *TRIC, just as PRINO above at Samonios
+2a has been seen by all observers to be an error for *TRINO, the
+reconstructed ordinal form is clear. Combining BRIC, [..]ICIO, and
+[..... IOMV gives *TRICIO and *TRICIOMV. *TRICIOMV could be
+seen as an abbreviation for *TRI(TIO-DE)CIOMV "from the thir-
+teenth", as in Latin trédecim "thirteen" and decimus "tenth" (see Buck
+1933: 230-1). However, one should note the Latin ordinal tertius
+decimus "thirteenth" and Greek tritos kai dékatos “thirteenth” with
+both the "three" and the "ten" given in ordinal form. The Irish form is
+tris deac "thirteenth" (‘the third of ten"). One would then have to
+assume a form on analogy with Latin duodecimus "twelfth" and
+

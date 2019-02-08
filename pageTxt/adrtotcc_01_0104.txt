@@ -1,0 +1,40 @@
+
+[ M ELEMBIV ANM ]
+
+[I          D       IVO   ]
+[II         D       IVO   ]
+[III        PRINNI LAG IVO]
+[IIII       N       IVO   ]
+[V     IIT  D  AMB        ]
+[VI         D             ]
+[VII        D             ]
+[VIII       D             ]
+[VIIII TII  D             ]
+[X          N   INI  R    ]
+[XI    ITI  D   AMB       ]
+[XII        D             ]
+[XIII       D             ]
+[XIIII      D             ]
+[XV         N(SDS)        ]
+
+[ATENOVX    ]
+
+[I          M D EDRINI    ]
+[II         M D EDRINI    ]
+[III   TII    D AMB EDRIN ]
+[IIII         D           ]
+[V            D   AMB     ]
+[VI    TIT    D           ]
+[VII   ITI    D   AMB     ]
+[VIII  IIT    D           ]
+[VIIII        D   AMB     ]
+[X            D           ]
+[XI           D   AMB     ]
+[XII   TII    D           ]
+[XIII  ITI    D   AMB     ]
+[XIIII IIT    D           ]
+[DIVERTOMV                ]
+
+#COLUMN-13 TOP HALF
+#MONTH-10 YEAR-4
+#page 104

@@ -1,0 +1,40 @@
+
+[M GIA]MONI ANM
+
+[I           N SI]MIVS EXOIVO
+[II    ITI   D]      IVO
+[III   IIT   D]     I[VO    ]
+[IIII        D]     [       ]
+[V           D]     A[MB    ]
+ VI          D       [      ]
+ VII         PRINNI LA[G    ]
+ VIII  ITI   D         [    ]
+ VIIII       N  INI    R
+ X           D
+ XI          D   AMB [      ]
+[X]II       [N              ]
+[XI]II  IT[I D              ]
+[XII]II IT[I D              ]
+[XV     IIT  D              ]
+
+ AT[ENOVX  ]
+
+ I        [  D              ]
+ II       [NSDS             ]
+ III       [ D       AMB    ]
+ IIII  TII  [D              ]
+ V     ITI  [D       AMB    ]
+ VI    IIT  [D              ]
+ VII         N[  INI  R     ]
+ VIII       [N   INI  R     ]
+ VIIII      [D   AMB        ]
+ X     T[II  D              ]
+ XI         [N   INI  R     ]
+ XII  [ IIT  D              ]
+[XIII        D   AMB        ]
+[XIIII       D              ]
+[DIVIRTOVM                  ]
+
+#COLUMN-15 BOTTOM HALF
+#MONTH-7 YEAR-5
+#page 113

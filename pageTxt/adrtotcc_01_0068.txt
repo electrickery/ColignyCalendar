@@ -1,0 +1,40 @@
+
+ M CANTLOS ANM
+
+ I         M D AEDRIN
+ II          D
+ III         D
+ IIII        PRINNI LAG
+ V           D AMB
+ VI          D
+ VI[I]       D CANTLI
+[VIII]       D CANTLI
+[VII]II      D CANTLI
+[X]          D
+ XI          D AMB
+ XII         D
+ XIII        D
+ XIIII       D
+ XV          D TIOCOBRIXT
+
+[ATENOVX       ]
+
+[I     TII   D          ]
+[II    ITI   D          ]
+[III   IIT   D AMB      ]
+[IIII        N INIS  R  ]
+[V           D AMB      ]
+[VI    IIT   D AMB      ]
+ VII [ TII D CANTLI AMB GO]R
+ VIII* I[TI  D CANTLI   ]
+ VIIII II[T  D CANTLI AMB ]
+ X           D[           ]
+ XI          D[AMB        ]
+ XII         D[           ]
+ XIII  TIT   D AMB    IV[O]
+ XIIII ITI   D IVO DIB CANT
+     DIVERTOMV
+
+#COLUMN-4 TOP HALF
+#MONTH-12 YEAR-1
+#page 68

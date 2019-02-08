@@ -1,0 +1,40 @@
+
+M  [CVTIOS MAT]
+
+ I       M D    [EXIVOS   ]
+ II     M  D       IVOS
+ III    M  D       IVOS
+ IIII      PRINI  LOVD
+ V        N       INIS *R
+ VI     M  D
+ VII         GIAM PRI LAG
+ VIII      D  GIAMONI
+ VIIII     N GIAMO INIS R
+ X    M    D
+ XI        D         AMB
+ XII  M    D
+ XIII M    D
+ XIIII M   D
+ XV   M    D
+
+ATENOVX
+
+ I     M  D  OGRON[I     ]
+ II    M  D  OGRON[I     ]
+ III      D  OGRO[NI  AMB]
+ IIII     N   IN[IS R    ]
+ V        D   AMB [      ]
+ VI       N   INIS [R    ]
+ VII      N  GIAM [INIS R]
+ VIII     N  GIAM [INIS R]
+ VIIII    D AMB G[IAMO   ]
+ X     M  D      [       ]
+ XI       D      [ AMB   ]
+ XII   M  D      [       ]
+[XIII]    D      [A]MB
+[XIIII  M D]
+[XV       D]       AMB
+
+#COLUMN-2 BOTTOM HALF
+#MONTH-6 YEAR-1
+#page 62

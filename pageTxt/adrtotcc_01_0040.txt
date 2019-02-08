@@ -1,0 +1,44 @@
+AO Reconstructed Text of the Coligny Calendar
+
+clearly indicated in the single N on Edrinios 30, which functionally
+parallels the NSDS found on Dumannios 29 and on Simivisonna 29 and
+30 (see 1992: table 38). Here N can simply be expanded to the fuller
+phrase NS or NSDS. However, note carefully that the N of N INISR
+has nothing to do with the sun and is a purely lunar notation. Thus the
+N in the phrase N INIS R simply indicates NOVX "night" and cannot
+be expanded to NOVX SONNO.
+
+The usage of the full phrase NSDS is also clear, as outlined
+above under N. The term functions to count each approximate one-day
+fall-back of the sun with the passage of each month, resulting from the
+solar year being approximately 10 1/4 days longer than 12 lunar
+months. Thus it is clear that the abbreviation should contain a reference
+to *sonns. Here DS presumably stands for *divos rather than *divos
+sonno, for no point (-) is ever found to separate the D from the S, as
+occurs between N and S in DS MA - N -S on Int-2 day 15. In Int-2 the
+point (-) clarifies that N and S are indeed separate terms. Nonetheless,
+one should note the remote possibility that DS stands for *divos sonno
+"day of the sun", a seemingly redundant term.
+
+NOVX: "night".
+
+This word occurs in combination as -NVX, -NO, -VX, and
+-NOVX in TRINVX, TRINO, PETIVX, and ATENOVX and inde-
+pendently as N as outlined above. NOVX must derive from IE *nok1-t-
+s "night" (IEW: 762), giving Welsh nos "night" and Irish i-nnocht
+"tonight", but why a form with -ou- rather than -o- occurs on the
+calendar is uncertain (see ATENOVX, above). The use of noux rather
+than *divos for the third day of Samonios, the TRI(TIO)NOVX, and for
+the fourth of Rivros, the PET(VOR)I(NO)VX, arises clearly from the
+lunar phase mark IIT associated with both dates and used in counting
+the *noux sonno solar pathway. In the TII counting scheme the TII
+mark indicating the lunar week phase which occurs at the beginning of
+the month clearly takes the place of N or NS for *noux sonno.
+
+Like the TII marks NS is added to and occurs alongside of the
+ordinary notation to be found on a particular day. Except for the fact
+that the TI marks are never shown where NS occurs or where single
+N with the significance N(S) occurs, all other notation is normal. NS
+is then used synonymously for any of the three TII marks, TI], ITI, or
+IIT, except that it can also occur where a TII mark is suppressed or
+

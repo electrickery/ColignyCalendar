@@ -1,0 +1,43 @@
+38 Reconstructed Text of the Coligny Calendar
+
+M: MAT: *matus or ?*matis?: "good, orderly, perfect, complete,
+auspicious’.
+
+This term occurs frequently as MAT, MA, and M, and once in
+a clear reading as MAT in the third line of the first intercalary month.
+Here is an abbreviation presumably containing the Celtic root mat-
+"good, complete, perfect, lucky, orderly", as in Irish math, maith" good,
+excellent, skilled; prosperity, wealth". This Celtic root mat- also occurs
+in the Latinized Gaulish personal names Mata (Lambert 1995: 142) and
+Matidonnus (IEW: 693) and in a Latinized inscription in a dative o-
+stem (Buck 1933: 180) to the Gaulish DEO RATAMATO (Olmsted
+1994: 439). The root mat- in these Celtic words and names derives
+from IE *ma- "good, good time, orderly" (IEW: 693). However, Irish
+maith is clearly an i-stem (Thurneysen 1946: 226) as is the Gaulish
+stem mati-. As it only occurs once on the calendar, it is possible that
+MATYV is an engravers error for *MATI. However, Evans (1967: 229)
+feels that the stems in -o and -u are simply variants for the more
+prevalent stem in -i. The personal names in -u, such as Matumaros
+(Evans 1967: 229), are mostly ambiguous and could refer to the Celtic
+stem matu- “bear”, as could the deity name Matuberginnis (Olmsted
+1994: 356) if this refers to a place name “Bear Mountain” rather than
+a functional name “Good High One”. It is a toss-up whether or not to
+correct the single occurrence MATV to *MATI or leave it as evidence
+for a Celtic u-stem with a significance similar to the Latin u-stem
+mat uU- in matuUrus “correct time, full term, perfect, ripe” (IEW: 693). In
+this case the u-stem would be simply a variant of the i-stem. Here I
+have used the expansion *matus rather than the corrected expansion
+*matis. In any case the significance of the term is clear.
+
+The term MAT, MA, M is used to describe the months which
+always have 30 days and count in the waxing solar pathway. It is also
+used to describe all of the even days and certain of the odd days (see
+DIVOS) within the *matus months. The months which do not always
+have 30 days are labeled as ANM months for *anmatus "incomplete,
+unlucky, imperfect, unorderly".
+
+M: MID: *mids: "month".
+
+This term occurs as MID or M before each month name, but
+also in the first intercalary month as MID X[II], indicating that 13
+

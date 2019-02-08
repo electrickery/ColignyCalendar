@@ -1,0 +1,39 @@
+
+ M EDRINI MAT
+[I           D]  CANTLI
+[II        M D]
+[III       M D]
+[IIII      M D]
+[V           D]   AMB
+[VI       PRIN LOVD]
+[VII         D  CA]NT
+[VIII        D  CANTL     ]
+[VIIII       D  CANTL     ]
+[X         M D            ]
+[XI         {D}    AMB    ]
+[XII       M D            ]
+[XIII      M D            ]
+[XIIII     M D            ]
+[XV        M D            ]
+
+[ ATENOVX    ]
+
+[I         N(SDS) ELEMB ]
+[II        N(SDS) ELEMB ]
+[III         D ELEM AMB ]
+[IIII      M D          ]
+[V           D AMB      ]
+[VI     IIT  D          ]
+[VII    TII  D CANTL AMB]
+[VIII   ITI  D CANTL    ]
+ VIIII  IIT  D[CANTL AMB]
+ X         M D   [      ]
+ XI          D AM[B     ]
+ XII       M D
+ XIII        D AMB IVOS
+ XIIII     M D   IVOS
+ XV          D AMB IVOS
+
+#COLUMN-4 TOP HALF
+#MONTH-11 YEAR-1
+#page 67

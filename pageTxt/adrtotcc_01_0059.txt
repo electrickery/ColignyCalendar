@@ -1,0 +1,38 @@
+
+[M RIVROS MAT]
+[I        D   ANAG EXIVOS ]
+[II      PRINNI LOVD IVOS ]
+[III    M D          IVOS ]
+[IIII M D TRICI]OMV RIV(R)O
+[V        N] INIS     R
+[VI   M D]
+[V]II ITI D ANAGANTIO
+ VIII IIT D ANAGANTIO
+ VIIII    D ANAGANTIO
+ X      M D
+ XI       N INIS *    R
+ XII    M D
+ DECIOMIV G   RIVRI
+ XIIII  M D
+ XV     M D
+
+[ATE]NOVX
+[I      M]D
+[II     M D]
+[III      D]         AMB
+[IIII   M D              ]
+[V        D          AMB ]
+[VI IIT M D              ]
+[VII      N ANAG INIS R  ]
+[VIII     D ANAGANTIO    ]
+[VIIII    N ANAG INIS R  ]
+[X      M D PETIVX RIVRI ]
+[XI       D        AMB   ]
+[XII    M D              ]
+[XIII     D        AMB   ]
+[XIIII  M D              ]
+[XV       N              ]
+
+#COLUMN-2 TOP HALF
+#MONTH-3 YEAR-1
+#page 59

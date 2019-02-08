@@ -1,0 +1,40 @@
+
+ M CANTLOS ANM
+
+ I         M D EDRINI
+ II          D
+ III         D
+ IIII     PRINN * N * LAG
+ V     ITT   D    AMB
+ VI          N
+ VII         D
+ VIII        D
+ VIIII       D
+[X     TI]I  D
+[XI    ITI]  D   AMB
+[XII   IIT   D    ]
+[XIII        D             ]
+[XIIII       D             ]
+[XV          D {TIOCOB}REXT]
+
+[ATENOVX    ]
+
+[I     TII   D             ]
+[II    ITI   D             ]
+[III         N             ]
+[IIII        N  INIS  R    ]
+[V           D  AMB        ]
+[VI    IIT   D             ]
+[VII   TII   D  AMB        ]
+[VIII  ITI   D             ]
+[VIIII IIT]  D   AMB       ]
+[X        ]  D 
+ XI          D   AMB
+ XII         D
+ XIII  TII   D  AMB   IVO
+ XIIII (ITI) D        IVO
+ DIVERTOMV
+
+#COLUMN-16 BOTTOM HALF
+#MONTH-12 YEAR-5
+#page 118

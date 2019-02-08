@@ -1,0 +1,39 @@
+
+[M GIAMON ANM   ]
+[I      M D SIMIVISON GIA  ]
+[II          D             ]
+[III         D             ]
+[IIII        D             ]
+[V           D    AMB      ]
+[VI          D             ]
+[VII M D SIMIVI TIOCBR{EXT}]
+[VIII  M D SIMIVIS         ]
+[VIIII M D SIMI SIND IVOS  ]
+[X         D               ]
+[XI        D    AMB        ]
+[XII       D               ]
+[XIII  TII D               ]
+[XIIII ITI D               ]
+[XV    IIT D               ]
+
+[  ATENOVX   ]
+
+[I         D               ]
+[II]    N[SD]S
+ III       D     AMB
+ IIII  TII D
+ V     ITI D     AMB
+ VI    IIT D
+ VII       D  SIMIVI  AMB
+ VIII    M D  SIMIVISO
+ VIIII     D SIMIVIS  AMB
+ X     TII D
+ XI        N    INIS   R
+ XII   IIT D
+ XIII      D         AMB
+ XIIII     D
+      DIVERTOMV
+
+#COLUMN-3 TOP HALF
+#MONTH-7 YEAR-1
+#page 63

@@ -1,0 +1,48 @@
+Reconstructed Text of the Coligny Calendar 7
+
+line averages about 2.5 unciae Drusianus below the edge of the top
+rim. The ANTENOVX lines are established at about 3.25 unciae
+Drusianus (midway) between the month-name lines. After making the
+month-name lines and the columns in this fashion, they filled in the
+numerals for the first 15 days in each month. Then they started at the
+top of the next month-name line and numbered backwards towards the
+middle for the ATENOVX days. They filled in ATENOVX in the
+space left between the two 15-day counts for each month.
+
+The engravers then made all of the TI marks, followed by the
+M’s. Next they made the left-hand lines for the D’s, but stopping where
+N occurs in place of D or MD for more than one day in a row. For
+example in Cutios year-1, the D lines stop at ATENOVX IV and four
+N’s are made, one at each of four the next five days. The D lines are
+then begun again at ATENOVX VIII, but shifted slightly more to the
+left than previously. In other months the left line of each N, particularly
+starting in year-2, lines up with the left line of each D. Thus for each
+letter a line is simply ruled out for each day of the calendar and the rest
+of the N or D is left to be filled in afterwards. But one should note that
+the letter lines in ELEMBIV year-3 are rather poorly ruled out.
+
+To the right of the D’s or N’s, the B’s of the D AMB’s and the
+R’s of the N INIS R’s often line up in a column, as if these were all
+made at the same time for a given month or column. The last items
+made were the drill holes for the movable pin or pins.
+
+The reconstructed text of the Coligny calendar presented here
+followed these measurement patterns to the same degree observed in
+the surviving fragments. Thus the reconstruction can be seen to be one
+which is not forced upon the calendar, but one which is compatible
+with the actual design plan, engraving techniques, letter size, and word
+spacing patterns of the original engravers of the calendar.
+
+Monthly and Yearly Time Reckoning
+
+Although the patterns apparent in the notation have already
+been outlined elsewhere, a brief description of the function of the solar
+and lunar counting schemes found on the calendar is necessary to
+understand the working of a recently-discerned D-AMB or AMB
+moon-rise counting scheme. This AMB scheme appears to utilize the
+same type of logic as the schemes which apparently kept track of the
+solstice dates. It also provides a logical explanation for the function of
+this term AMB. However, the scheme must be put forward as only a
+suggestion since the pattern of AMB is simple enough that it is possible
+that it fitted some other function or is purely random. The credibility
+

@@ -1,0 +1,40 @@
+
+ M OGRON MAT
+
+[I        M D          ]
+[II       M D          ]
+[III        PRINNI LOVD]
+[IIII ITI M D          ]
+[V        N INDIS    R ]
+[VI       M D          ]
+[VII      M D          ]
+[VIII     M D          ]
+[VIIII TII M D         ]
+[X    ITT M D          ]
+[XI   IIT   D      AMB ]
+[XII      M D          ]
+[XIII     M D          ]
+[XIIII    M D          ]
+[XV       NSDS         ]
+
+[ATENOVX  ]
+
+[I   TII  M D  CVTIO   ]
+[II {TTI  M D  CVTIO}  ]
+[III IIT    D CVTIO AMB]
+[IIII     M D          ]
+[V          D   AMB    ]
+[VI  TIT  M D          ]
+[VII ITI    D   AMB    ]
+[VIII ITI M D   CVTIO  ]
+[VIIII      D          ]
+[X        M D          ]
+[XI         D   AMB    ]
+[XII        N INIS   R ]
+[XIII ITI   D   AMB    ]
+[XIIII IIT  M D        ]
+[XV         D   AMB    ]
+
+#COLUMN-5 TOP HALF
+#MONTH-5 YEAR-2
+#page 73

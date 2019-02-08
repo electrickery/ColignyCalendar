@@ -1,0 +1,40 @@
+
+[M SAMON MAT   ]
+
+[I            D   DVMAN IVOS ]
+[II         M D      IVOS    ]
+[III   TII    D DVM ALE IVO  ]
+[IIII       M D              ]
+[V            D    AMB       ]
+[VI         M D              ]
+[VII        PRIN N LOVNIN    ]
+[VIII         D    DVMANI    ]
+[VIIII      M D              ]
+[X          M D              ]
+[XI           D    AMB       ]
+[XII          D    M         ]
+[XIII         D    M         ]
+[XIIII        D    M         ]
+[XV           D    M         ]
+
+ A[TENOV]X
+
+ I            D DVMANI
+ II         M D TRINO SAMONI
+ III          D AMB
+ IIII   TII   M D
+ V      ITI   D  AMB
+ VI     IIT  M D
+ VII[         D  AMB         ]
+ VII[I        N  INIS     R  ]
+ VI[III       N  INIS     R  ]
+[X      TII M D              ]
+[XI     ITI   D  AMB  IVOS   ]
+[XII    IIT M D      IVOS    ]
+[XIII         D  AMB  IVOS   ]
+[XIIII      M D       IVOS   ]
+[XV           D  AMB  IVOS   ]
+
+#COLUMN-14 TOP HALF
+#MONTH-1 YEAR-5
+#page 107

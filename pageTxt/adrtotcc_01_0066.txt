@@ -1,0 +1,40 @@
+
+ M ELEMB AN[M]
+
+ I           D [IVOS       ]
+ II          D [IVOS       ]
+[III    PRINNI LAG     IVQ]S
+[IIII        D             ]
+[V           D AMB         ]
+[VI          D             ]
+[VII       M D EDRIN TIOCOB]
+[VIII      M D EDRIN TIOCOB]
+[VIIII     M D EDRINI      ]
+[X          {N} INI  R     ]
+[XI          D    AMB      ]
+[XII         D             ]
+[XIII        D             ]
+[XIIII       D             ]
+[XV          N(SDS)        ]
+
+[ATENOVX   ]
+
+[I         M D  EDRINI     ]
+[II        M D  EDRINI     ]
+[III         D  AMB EDRIN  ]
+[IIII        D             ]
+[V           D    A]MB
+[VI     TIT] D
+[VII ]       D  EDRI AMB
+[VIII]     M D  EDRINI
+[V]IIII      D AMB EDRINI
+ X           D SIND IVOS
+ XI          D    AMB
+ XII    TII  D
+ XIII   ITI  D    AMB
+ XIIII  IIT  D
+     DIVERTOMV
+
+#COLUMN-3 BOTTOM HALF
+#MONTH-10 YEAR-1
+#page 66

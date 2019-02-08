@@ -1,0 +1,39 @@
+
+[M ANAGAN]  AN
+[I]      M D    RIVRI
+ II        D
+ III       D
+ IIII    M D OC(T)IOMV RIVRI
+ V         N     INIS    R
+ VI          PRINNI   ANAG
+ VII     M D OGRONI
+ VIII    M D OGRONI
+ VIIII   M D OGRONI
+ X         D
+[XI        D   A]MB
+[XII       D                 ]
+[XIII      D                 ]
+ X[IIII    D                 ]
+ XV[       D                 ]
+
+ATENOV[X  ]
+
+ I         D    [            ]
+ II        D    [            ]
+ III       D    AM[B         ]
+ IIII      D    (  )
+ V         D    AMB
+ VI        N    INIS R
+ VII  TTI  D  AMB  OGRON
+ VIII ITI  MD QVTI OGRON
+ VIIII     D  OGRON  AMB
+ X        NSDS
+ XI        D   AMB
+ XII       D
+ XIII      D   AMB
+ XIIII     D
+ (  ) DIVIRTOMV
+
+#COLUMN-11 BOTTOM HALF
+#MONTH-4 YEAR-4
+#page 98

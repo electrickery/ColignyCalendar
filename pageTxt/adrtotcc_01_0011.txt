@@ -1,0 +1,46 @@
+Reconstructed Text of the Coligny Calendar 11
+
+the third 5-day week of the moon. With each 5-year phase the moon
+progresses by exactly one additional day within each week dominating
+the 25-year cycle.
+
+Notice that this 25-year cycle has 1802 days and 1832 days in
+the 5-year phases rather than the 1801 days and 1831 days of the 5-year
+phases in the 30-year cycle. This extra day in each 5-year phase would
+arise by giving Equos 29 days in year 4 rather than the 28 days in year
+4 necessary for the 30-year cycle. Equos would still have 28 days in
+year 2 accounting for the extra IVOS day in Elembiu year 2. Thus in
+years 1, 3, and 5, the IVOS count for the end of Equos and the
+beginning of Elembiu would be 9 days with 5 IVOS days at the end of
+Equos (30 days) and 4 IVOS days at the beginning of Elembiu. In year
+4,4IVOS days would occur at the end of Equos (29 days) and 4 TVOS
+days would occur at the beginning of Elembiu for a total of 8 days. In
+year 2, three [VOS days would occur at the end of Equos (28 days) but
+now 5 IVOS days would occur at the beginning of Elembiu for a total
+of 8 days. Like MacNiell’s scheme, the 25-year scheme still accounts
+for the extra IVOS day in Elembiu year 2. The ANM notation for
+Equos is assured in both counts since Equos has fewer than 30 days in
+years 2 and 4.
+
+It is clear that the 25-year calendar was adapted from Plinius’s
+30-year Gaulish calendar by simply giving an extra day to Equos in
+year 4 making it 29 days long rather than the original 28 days. It is the
+completeness of these schemes and their accounting for the TI
+distribution that caused Pinault to call for the adoption of my 25-year
+scheme in his Gnomen (1996: 706 ff.) review.
+
+A Brief Description of the TII Counting Scheme
+
+The TII scheme (plate 1) normally counts only in the MAT
+(30-day) months in the first half of the year when the sun daily rises in
+the sky (the /oudin half of the year) and in the ANM (29-day) months
+in the second half of the year when the sun daily lowers in the sky (the
+laget half of the year). The /oudin "rising" solar pathway thus occurs
+in the 4 MAT "complete" months in the first half of the year, and the
+laget "lowering" solar pathway occurs in the 4 ANM "incomplete"
+months in the second half of the year. In this scheme 3 days are added
+each time the count shifts from a MAT to an ANM month or vice
+versa, which normally occurs at 6-month intervals. In this way the TH-
+count normally tallies out 12 days each year (one day for each month),
+the same as with the N-count, to be discussed below.
+

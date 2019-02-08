@@ -1,0 +1,46 @@
+46 Reconstructed Text of the Coligny Calendar
+
+"
+
+S: *sons or *sonns: "sun".
+
+The term sons or sonns occurs in the phrase CIALLOS BIIS
+SONNO CINGOS, which occurs at the beginning of the second
+intercalary month. Here sonno is clearly a genitive, probably of a u-
+stem or a consonantal stem, with the loss of final -s. The phrase sonno
+cingos probably indicates “the course of the sun’’.We must remember
+as well the genitive of the month name S[IMIVIJSONNA, if this does
+contain the same root. This suggests a nominative *sons. In any case,
+the meaning of SONNO is clearly "of the sun". It must represent a
+development from IE *sun- "sun" (IEW: 881), although the usual
+Insular Celtic forms derive from IE *sauel- (IEW: 881), as in Welsh
+haul. Avestan xOng “sun” from IE *syens provides a parallel form to
+the *sons apparently found on the Coligny calendar. Gothic preserves
+both forms sauil and sunnO, so it would not be surprising if both forms
+were found in Celtic as well.
+
+TIOCOBRIXTIO: *trioconto-brixtios: “a day to make up thirty”.
+
+The attested forms are TIOCOBREXTIO, TIOCOBRIXT,
+TIOCOBREX, TIOCOBR, and TIOCOB. As I previously indicated
+(Olmsted 1992: tables 39 and 40), these day are to be used in place of
+days 30, 31, or 32, which are necessary for the counting scheme but do
+not actually exist. BREXTIO, BRIXTIO is probably a development of
+the IE root *bhre- "transferred, carried, go in place of" (IEW: 128), but
+with the abstract suffix form -ek-tio- appended to it. The significance
+would seem to be "the day which goes in place of" or “a day to make
+
+up”.
+
+Since, as we have already seen, day 30 (15a) is implicated in
+this "going in place of", TIOCO- is most likely an abbreviation for
+*T(R)IOCO(NTO)- "thirty". *TRIOCONTO- comes from *trio-
+"three" (EW: 1090) and *komt- "ten" is used in the numeral com-
+pounds of ten (IEW:192). The form is close to the attested Gaulo-
+Roman ablative plural TRICONTIS (Latin trigenta with neuter plural
+trf, see Buck 1933: 231), but is even closer to the Greek triakonta
+(from *tria-). The Irish form is tricho and the Breton form is tregont.
+Rather than Greek influence here in *TRIOCONTO-, I would simply
+see another possible instance of an archaism. Again in trio-, an -o-
+occurs in place of an expected -a-.
+

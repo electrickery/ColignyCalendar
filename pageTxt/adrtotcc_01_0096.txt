@@ -1,0 +1,40 @@
+
+ M DVMAN ANM
+
+ I      SAMON PRINI LOVDI
+ II        D
+ III       D
+ IIII      D
+ V      PRINI [LAGET     ]
+ VI       [D             ]
+[VII     M D   RIVRI     ]
+[VIII   RINI   RIVRI     ]
+[VIIII   M D   RIVRI     ]
+[X         D             ]
+[XI        N INIS     R  ]
+[XII       D             ]
+[XIII      D       IVOS  ]
+[XIIII     D       IVOS  ]
+[XV        D       IVOS  ]
+
+[ATENOVX      ]
+
+[I      M D SAMONI IXIVO ]
+[II     M D SAMONI IVOS  ]
+[III      D    AMB IVOS  ]
+[IIII     D        IVOS  ]
+[V        D    AMB IVOS  ]
+[VI IIT M D              ]
+[VII IIT  D RIVRI AMB    ]
+[VIII     D PETVRIV()ANAG]
+[VIIII    D RIVRI AMB    ]
+[X        D              ]
+[XI       N        IVOS  ]
+[XII      N INIS R IVOS  ]
+[XIII     D    AMB IVOS  ]
+[XIIII    D        IVOS  ]
+[DIVERTIOMV              ]
+
+#COLUMN-11 TOP HALF
+#MONTH-2 YEAR-4
+#page 96

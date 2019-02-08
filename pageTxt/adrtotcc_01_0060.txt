@@ -1,0 +1,39 @@
+
+[M ANAGAN  ANM]
+[I     M D RIVRI         ]
+II      [D               ]
+III     [D               ]
+IIII  M]D OC(T)IOMV RIVRI]
+V        N[ INIS      R  ]
+VI        PR[INNI ANAG   ] 
+VII    M D OGR[ONI        ]
+VIII   M D OGRONI
+VIIII  M D OGRONI
+X        D
+XI       D     AMB
+XII TII  D
+XIII*ITI D
+XIIII*IIT D
+[X]V     D
+
+[AT]ENOVX
+
+[I       ]D
+[II      ]D
+[III  TII D] AMB
+[IIII ITI D] 
+[V    IIT D] AMB
+[VI       N]INIS     R
+[VII      D]OGRO   AMB
+[VIII  ]M D    CVTIO [OGRO]
+ VIIII    D OGRON[ AMB    ]
+ X   TTI  D      [        ]
+ XI  IIT  D       A[MB    ]
+ XII      D        [      ]
+ XIII     D       SM[B    ]
+ XIIII    D          [    ]
+     DIVIRTOMV        [   ]
+
+#COLUMN-2 TOP HALF
+#MONTH-4 YEAR-1
+#page 60

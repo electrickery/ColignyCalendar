@@ -1,0 +1,40 @@
+
+ M [AN]AGTIO ANM
+
+ I      M[D  ] RIVRI EXO IVO
+ II    [  D ]      IVOS
+[III      D]       IVOS
+[IIII     N] OC(T) IOM RIVRI
+[V       ]N    INIS      R
+[VI      ]PRINNI LAG
+[VII    ]NSDS
+[VIII]    D
+[VI]III   D
+[X]       D
+[XI]      D      AMB
+[XII]     D
+[XIII     D]
+[XIIII    D]
+[XV       D]
+
+[ATEN]OVX
+
+[I        N]
+[II       D]
+[III      D]    ANB
+[IIII     D]
+[V        D]    AMB
+[VI       N]  INIS      R
+[VII      N]  INIS      R
+[VIII     D]
+[VIIII    N]  INIS      R
+[X        NSDS]
+[XI       D  A]MB
+[XII      D   ]
+[XIII    {D  AMB}]
+[XIIII    D      ]
+[DIVOROMV           ]
+
+#COLUMN-8 TOP HALF
+#MONTH-4 YEAR-3
+#page 84

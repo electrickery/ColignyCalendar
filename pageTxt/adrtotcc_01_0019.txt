@@ -1,0 +1,45 @@
+Reconstructed Text of the Coligny Calendar 19
+
+Let us next examine the 25-year cycle which is actually
+indicated on the Coligny calendar. This 25-year cycle is developed
+from the 30-year cycle by adding an additional day every five years to
+the 30-year-cycle calendar. In this 25-year calendar there is an initial
+phase of 1802 days followed by four 5-year phases of 1832 days. In a
+calendar with 5-year phases of 1832 days (as opposed to the 1831 days
+of the 30-year cycle), shifting 1 day with respect to the moon every 5
+years, since there are 1826.211 days in 5 solar years, the solstices will
+occur earlier by 5.789 days (1832 - 1826.211) every 5 years. Four of
+the 1832-day phases thus add 23.156 days. In this 25-year calendar,
+these 4 phases, each generating 5.789 days, gradually eat away an
+initial 24.21 1-day fall-back (1826.211 - 1802). Thus the 25-year cycle
+will consist of a total of four 1832-day 5-year phases added to the
+initial 1802-day 5-year phase. As the total from the last four 5-year
+periods is not quite equal to the initial fall-back of the first 5-year
+period, the sun will fall back 1.055 days (24.211 - 23.156) over the
+whole 25-year cycle, almost exactly 1 day.
+
+In these calendar schemes the two intercalary months,
+comprising 60 days, are theoretically added to make up the supposed
+60-days fall-back of the sun, 1 day for each month of the 5-year period.
+But as we have seen above, in adding these extra 60 days, the sun
+actually leaps ahead in each 62-month phase by either approximately
+5 days or approximately 6 days, depending on whether the calendar
+contains 1831 days or 1832 days. These extra intercalary days will then
+cause the intercalary solstices to occur either 5 days earlier each phase
+after an initial fall back of nearly 25 days in the 30-year cycle or 6 days
+earlier each phase after an initial fall-back of nearly 24 days in the 25-
+year cycle. In the first 25-year cycle, for example, after the first
+midwinter solstice on day 1 of Samain, the midwinter intercalary
+solstices will occur at 5-year intervals on days 25, 19, 13, and 7 and the
+midsummer intercalary solstices will occur on days 28, 22, 16, 10, and
+4,
+
+To account for the discrepancy in the 60-days fall-back
+predicted by the 1-day fall-back each month (the intercalary months are
+not counted in the fall-back) and the fall-back actually observed in
+cycling through the calendar, the N-counting scheme on the Coligny
+calendar simply shifts forward a block of days once in each 5-year
+period, a block of days equal in length to the number of days the sun
+leaps ahead (the number of days the solstices occur earlier) in each
+such period. If we closely examine the N-counts proceeding from the
+

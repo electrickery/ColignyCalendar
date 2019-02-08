@@ -1,0 +1,47 @@
+14 Reconstructed Text of the Coligny Calendar
+
+If as seems likely, and indeed is actually demanded in the
+evolution of the calendar scheme itself, a 30-year cycle which closely
+followed the moon, preceded the 25-year calendar with its shifting
+lunar phases, a good motivation can be seen for the change from the
+30-year to the 25-year cycle. The 25-year cycle was 4 times more
+accurate in its prediction of solar positions and nearly 3 times more
+accurate in its prediction of lunar position. Indeed through this scheme
+Gaulish calendar priests developed by far the most accurate solar and
+lunar predictor in the ancient world.
+
+The major reason the TI counting schemes have been difficult
+to discern is that the TII marks were shifted along with the other day
+notation in the schemes for shifting days within the months or between
+months. However, one can work out the origins of these shifted days
+precisely because each TII mark was shifted along with the rest of the
+day from its original position on the calendar. Thus the shifted TI
+marks are out of order with the schemes, and they can be returned to
+their original positions, since this also returns the regularity to the
+original pattern. Where these shifts do occur, the calendar indicates the
+original position by naming the day and the month from which it was
+shifted (Olmsted 1992: tab. 6c).
+
+Thus D PETIRIVRI ANAG now found at Rivros 8a in year 3
+and [D] PETIVX ANAG now found at Rivros 8a in year 2 come from
+Anagantio day 4. M D or NOCIOM RIVRI or OCIOMV RIVRI now
+found at Anagantio 4 in year 2, 3, 4, and 5 comes from Rivros 8a (day
+23 = 8a in the notation of the calendar which recounts after the first
+fortnight of 15 days (15 + 8 = 23)). The TI pattern across the 5-year
+period given in the calendar guarantees that the shifts are correct. One
+can easily reconstruct *pet(u)riu Anagant and *oc(t)iomu Rivri “from
+the fourth of Anagantio” and “from the eighth of Rivros” for these days
+which the TII pattern shows that they can only have been shifted from
+day 4 of Anagantios and day 8a of Rivros through an interchange of
+days. In a similar fashion trinux samo or trino samoni at Samonios 2a
+(17) can be show from the TII pattern to come from Samonios 3 and [D
+Du]m ele on Samonios 3 to come from Dumannios 2a. First Samonios
+2a and Dumannios 2a exchanged days, and then Samonios 3 and
+Samonios 2a exchanged days. Thus Samonios 3 now has the notation
+[D Du]m ele and Samonios 2a has the notation trino Samoni or trinux
+Samo. Putting the two abbreviations together, trinoux Samoni can be
+expanded as tri(tio) noux Samoni “from the third night of Samonios”
+(as petiux above could be expanded as pet(uar)iu (no)ux). The ele of [D
+Du]m ele is at least suggestive of an abbreviation of a corrupted
+Gaulish aliu, dative of alios (?*aleu?). There should be little problem
+

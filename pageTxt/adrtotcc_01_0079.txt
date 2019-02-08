@@ -1,0 +1,41 @@
+
+[M EDRINIO]S MAT
+
+[I         D CANT]IVO
+[II      M D     ]IVOS
+[III     M D     I]VOS
+[IIII    M D       ]
+[V         D AMB      ]
+[VI        PRIN  LOVD   ]
+[VII   ITI M D TIOCOB     ]
+[VIII  IIT M D TIOCOB      ]
+[VIIII     M  D             ]
+[X       M D                ]
+[XI        N               ]
+ XII TTI  [M D            ]
+ XIII ITT M [D          ]
+ XIIII IIT M[D        ]
+
+*XV        D   M[  ]
+
+ ATENOVX
+
+ I        D      ELEMB
+ II       D      ELEMB
+ III      D ELEMBI AMB
+ IIII ITI M D
+ V  IIT   D   AMB
+ VI IIT  ( )D
+ VII      D   AMB
+ VIII   M D
+ VIIII TII D AMB
+ X  ITT M D SIND  IVOS
+ XI IIT   D AMB
+ XII    M D
+ XIII   * D AMB
+ XIIII    M D
+ XV       N(SDS)(AMB)
+
+#COLUMN-7 TOP HALF
+#MONTH-11 YEAR-2
+#page 79

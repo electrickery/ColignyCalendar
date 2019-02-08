@@ -1,0 +1,46 @@
+Reconstructed Text of the Coligny Calendar 43
+
+The Loudin series converges on Samonios in the *“matus
+months, counting primarily in the first half of the year, and the laget
+series converges on Giamonios in the *anmatus months, counting
+primarily in the second half of the year. In each series days 1-8 are
+directly labeled PRINNI LOVDIN and PRINNI LAGET. The term
+PRINNI clearly applies to the whole series even though the actual
+labeling does not extend beyond day 9. Only days 1 and 7 of the
+labeled series actually occur on the solstices. It should be noted that
+when one solstice occurs on day 1 the next solstice, six months later,
+always occurs on day 7. In the other months the days indicated as
+PRINNI are assumed to count the falling behind of the sun with respect
+to the calendar.
+
+Although the significance of PRINNIis clear, its etymology is
+not. A relationship to *kyrei- "to buy" (IEW: 648), as in Irish crenid
+and Welsh prynu "to buy, to redeem" (*kUri-n-), does not seem to make
+much sense, unless in the sense of "buying time".
+
+The term PRINNI might also refer to the sun’s falling behind
+the calendar. If so, it might relate to Welsh prinhau "to diminish, to
+become scarce" and to Irish crinaid "to fade, wither away". Thus
+PRINNI may refer to the "fading back" of the sun. But this etymology
+also seems doubtful, since the solar pathway waxes as well as wanes,
+which would juxtapose "increasing" with "fading back".
+
+More likely a variant of *kyer- "to make or shape" (IEW: 641)
+is indicated here. Significantly Welsh pryd, derived from the zero-
+grade form *kuyr-tu- (EW: 641), indicates "time" as well as "form".
+Perhaps an n-expansion of this root lies behind Welsh prynhawn
+"afternoon" (from pryn nawn?). Irish cruth indicates "form, shape, way,
+appearance’. The -i and -o alternation in the ending of PRINNI and
+PRINNO perhaps suggest an io-stem. The significance of *prinnio-
+would then be "form, shape, way, time, period”.
+
+At any rate, the term is clearly used to count out the pathway
+of the sun between solstices. The PRINNI LOVDIN series thus counts
+the solar path while the sun is rising in the sky, going from south to
+north in the period from midwinter to midsummer. During this period
+the days get longer and longer. The PRINNI LAGET series thus counts
+out the solar path while the sun is lowering in the sky, going from north
+to south in the period from midsummer to midwinter. During this
+period the days get shorter and shorter. At the anomalous days, the
+falling sun series is assumed to continue even following the winter
+

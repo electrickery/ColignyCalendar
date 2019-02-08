@@ -1,0 +1,40 @@
+
+MID  SAM  M
+
+ I        D DVMANNI (EX)IVOS
+ II     M D   IVOS
+ III  TII D EXINGI DVM   IVOS
+ IIII   M D   IVOS
+ V        D AMB*RIX*RI
+ VI     M D
+ VII    N DVMANN INIS*R
+ VIII   M D S(A)MO
+ VIIII    D DVMANNI
+ X      M D
+ XI       D  AMB
+ XII      D  M
+[X]III    D  M
+[X]IIII   D  M
+ XV       D
+
+ATENOVX
+
+ I        D DVMANNI (EX)IVOS
+ II     M D   IVOS
+ III  TII D EXINGI DVM   IVOS
+ IIII   M D
+ V        D  AMB
+ VI    IIT M  D
+ VII      D DVMANNI AMB
+ VIII TII D DVMANNI
+ VIIII  N DVMANNI*IN  R
+[X      M]D
+[XI       D]  AMB
+[XII      D   M               ]
+[XIII     D   AMB             ]
+[XIIII    D   M               ]
+[XV       D   AMB             ]
+
+#COLUMN-1 BOTTOM HALF
+#MONTH-1 YEAR-1
+#page 57

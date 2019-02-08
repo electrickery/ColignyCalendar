@@ -1,0 +1,40 @@
+
+ M SIMIVIS MAT
+
+ I      GIAMO PRINI LAG
+ II        N
+ III ITI   D EQVI
+ IIII    M D
+ V         N INIS R
+ VI        D EQVI
+ VII     M D TIOCOBREXTIO
+ VIII    M D 
+ VIIII   M D SINDIV IVOS
+ X       M D
+ XI       (D  AMB)
+ X[II]   M D
+[XIII     ]D  EQVI
+[XIIII   NSDS EQVI        ]
+[XV      NSDS EQVI        ]
+
+[ATENOVX     ]
+
+[I        NSDS EQVI       ]
+[II         D  EQVI       ]
+[III        D  AMB EQVI   ]
+[IIII IIT M D             ]
+[V          D      AMB    ]
+ VI   [ITT  D  EQVI       ]
+ VII  [     D  AMB        ]
+ VIII [TII M D            ]
+ VIIII[ITI   D AMB        ]
+[X     IIT M D            ]
+[XI         D  AMB        ]
+[XII      M D             ]
+[XIII       D  AMB        ]
+ XIIII[    NSDS MAT       ]
+ XV   [    NSDS AMB       ]
+
+#COLUMN-12 BOTTOM HALF
+#MONTH-8 YEAR-4
+#page 102

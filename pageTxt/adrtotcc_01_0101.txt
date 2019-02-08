@@ -1,0 +1,40 @@
+
+[M GIAMONU ANM  ]
+
+[I         N SIMIVS EXO IVO]
+[II    ITI D          IVO  ]
+[III   IIT D          IVO  ]
+[IIII      D               ]
+[V         D       AMB     ]
+[VI      M D               ]
+[VII       PRINNI LAG      ]
+[VIII  ITI D               ]
+[VIIII     N   INI     R   ]
+[X         D               ]
+[XI        D       AMB     ]
+[XII       D               ]
+[XIII  TII D               ]
+[XIIII ITI D               ]
+[XV    IIT D               ]
+
+[ATENOVX     ]
+
+[I         D               ]
+[II      NSDS              ]
+[III       D       AMB     ]
+[IIII  ITT D               ]
+[V     ITI D       AMB     ]
+[VI    IIT D               ]
+[VII       N    INI ]   R
+[VIII      N    INI]S   R
+[VIIII     D    A]MB
+[X     TII D]
+[XI        N]   INI     R
+[XII   IIT]D
+[XIII]     D    AMB
+[X]IIII    D
+  DIVIRTOMV
+
+#COLUMN-12 BOTTOM HALF
+#MONTH-7 YEAR-4
+#page 101

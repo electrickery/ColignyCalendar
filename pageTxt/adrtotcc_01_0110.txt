@@ -1,0 +1,40 @@
+
+[M ANAGANTIO ANM ]
+
+[I        M D    RIVRI EXOIVO]
+[II        ]D     GO R IVO
+[III      ] D       IVO
+[IIII    ]M D OC(T)IOMV RIVRI
+[V       ]  N   INI    R
+[VI      ]  PRIN   LAG
+[VII   IT]I D
+[VIII  II]T D
+[VIIII     ] D
+[X          ]N
+[XI          D]  AMB
+[XII   TII   D]
+[XIII  ITI   D]
+[XIIII IIT   D]
+[XV          D]
+
+[ATENO]VX
+
+[I           D]
+ II          D   [          ]
+ III   TII   D   A[MB       ]
+ IIII  ITI   D    [         ]
+ V     IIT   D    A[MB      ]
+ VI          N   INI[    R  ]
+ VII         N   INI     R
+ VIII        D
+ VIIII       N   INI     R
+ X     TTI   D
+ XI    IIT   D   A[MB       ]
+ XII         D[             ]
+[X]III       D[ AMB         ]
+[XIIII]      D[             ]
+[DIVORTOMV                  ]
+
+#COLUMN-14 BOTTOM HALF
+#MONTH-4 YEAR-5
+#page 110

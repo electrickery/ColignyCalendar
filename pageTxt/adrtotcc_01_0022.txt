@@ -1,0 +1,46 @@
+22 Reconstructed Text of the Coligny Calendar
+
+equinox when the sun rise occurs between one to two minutes later
+each day and the sun set occurs between one to two minutes earlier
+each day. The maximum time around 74 minutes for the new and full
+moons are reached during the vernal equinox when the sun rise occurs
+between two to three minutes earlier each day and the sun sets between
+two to three minutes later each day. The maximum and minimum time
+of the daily lunar fall-back around the first and last quarter moons
+occurs at the solstices, when the sun and moon reach their maximum
+perpendicularity. The full moon rises at twilight in the evening almost
+exactly 1 hour later than the previous day at the date closest to the
+winter solstice, and the new moon sets at twilight in the evening almost
+exactly 1 hour later than the previous day at the date closest to the
+summer solstice, which may be the original reason for the day being
+divided up into two periods of 12 hours each.
+
+Also one might note that in traversing from Midwinter to
+Midsummer solstice in the region of Traverse City, Michigan (45
+degrees, at approximately the same latitude as Lyons, 46 degrees), the
+hours of daylight increase from 9 hours a day to 15 hours a day with 12
+hours of daylight at the equinox. Thus the length of time the sun shines
+each day gains or loses approximately 1 hour each month depending on
+whether or not one is in the rising half of year or the falling half of the
+year.
+
+To follow the trajectory of the moon each month, a simple
+counting scheme could assume that the moon falls back 12 hours with
+respect to sunlight in each fortnight of fifteen days, and over the long
+run it would be accurate to around + 2%. The easiest way to construct
+such a scheme would be to assume that during the period between the
+full moon and the new moon, the moon will rise an hour later each day,
+and during the period between the new moon and the full moon, the
+moon will set an hour later each day, but it will skip the count for 3
+days in each such fortnight. Such a scheme also could be effected by
+counting backward every fifth day except for day fifteen.
+
+This regimen of counting backward approximately every fifth
+day fits the pattern of the notation D AMB in the first fortnight of the
+Coligny calendar, as this notation occurs on days V and XI. A similar
+fall back is assumed for the sun in the concept of the noux sonno
+outlined above in counting out the supposed fallback of the sun vis-a-
+vis lunar time by one day each month. In the noux sonno scheme, the
+sun is assumed to retrace its pathway backwards during the night so
+that it begins the next day at the same position as the previous day.
+

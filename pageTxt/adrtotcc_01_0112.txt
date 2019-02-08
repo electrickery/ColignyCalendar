@@ -1,0 +1,40 @@
+
+ M CVTIOS MAT
+
+ I         M D
+ II        M D
+ III       M D
+ IIII        PRINNO LOVD
+ V           N  INI  R
+ VI        M D
+ VII       M D
+ VIII      M D
+ VIIII       N  INI  R
+ X         M D
+ XI          D  AMB
+ XII         N
+ XIII      M D
+ XIIII     M D
+ XV        M D
+
+ ATENOVX
+
+ I         M D  OGRONI
+ II        M D  OGRO
+ III         D  AMB OGR
+ IIII[      ]N  INI  R
+[V          ]D  AMB
+[VI         ]N  INI  R
+[VII        ]D  AMB
+[VIII      M]D  OGRONI
+[VIIII      ]D  AMB
+[X         M]D
+[XI         ]D  AMB
+[XII       M]D 
+[XIII  TII  ]D  AMB  IVO
+[XIIII ITI]  M D     IVO
+[XV    IIT  ]D  AMB  IVO
+
+#COLUMN-15 TOP HALF
+#MONTH-6 YEAR-5
+#page 112

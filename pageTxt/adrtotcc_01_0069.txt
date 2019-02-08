@@ -1,0 +1,39 @@
+
+ M SAMON MAT
+
+ I           N DVMAN  IVOS
+ II    ITI M D       IVOS
+ III   TII*  D DVM (ALE)  IVO
+ IIII      M D
+ V           D         AMB
+ VI        M D
+ VII         PRIN   LOVDIN
+ VIII        D         DVM
+ VIIII IIT M D
+ X         M D
+ XI          D         AMB
+ XII       M D
+ XIII  TII M D
+ XIIII IIT M D
+ XV    IIT M D
+
+ ATENOVX
+
+ I           D DVMAN
+ II IIT  (M)D TRI(TI)NVX SAMO
+ III         D       AMB
+ IIII  TII M D
+ V     ITI   D      AMB
+ VI    IIT M D
+ VII         D       AMB
+ VIII        N   INIS      R
+ X     TII M D
+ XI    ITI   D  AMB    IVOS
+ XII   IIT M D       IVOS
+ XIII        D  AMB    IVOS
+ XIIII     M D         IVOS
+ XV          D   AMB   IVOS
+
+#COLUMN-4 BOTTOM HALF
+#MONTH-1 YEAR-2
+#page 69

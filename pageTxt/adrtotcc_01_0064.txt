@@ -1,0 +1,40 @@
+
+M SIMIVI MAT
+
+ I      GIAMO PRIN LAG
+ II     M  D
+ III       D EQVI
+ IIII   M  D
+ V         N  INIS R
+ VI        D  EQVI
+ VII       D  EQVI
+ VIII       EQV PRI LAG
+ VIIII     D  EQVI
+ X       M D
+ XI        D   AMB
+ XII     M D
+ XIII      D   EQVI
+ XIIII   NSDS(EQVI)
+[XV        DS]NS EQVI
+
+[ATENOVX   ]
+
+[I        NSDS  EQVI    ]
+[II         D   EQVI    ]
+[III        D   AMB EQVI]
+[IIII     M D           ]
+ V          D       [AMB]
+ VI   ITT   D   EQVI
+ VII  IIT   D   EQVI AMB
+ VIII       D   EQVI
+ VIIII      D  AMB EQVI
+ X        M D
+ XI         D  AMB IVOS
+ XII      M D    IVOS
+ XIII       D  AMB IVOS
+ XIIII    M D    IVOS
+ XV         D  AMB IVOS
+
+#COLUMN-3 TOP HALF
+#MONTH-8 YEAR-1
+#page 64

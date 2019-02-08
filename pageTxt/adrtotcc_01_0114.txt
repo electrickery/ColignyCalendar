@@ -1,0 +1,41 @@
+
+[M SIMIVIS M]AT
+
+[I        GIAMO  PRINI  LAG]
+ II[         N             ]
+ III[  ITI   D EQVI        ]
+ IIII[     M D             ]
+ V     [     N  INIS R     ]
+ VI    [     D   EQVI      ]
+ VII[      M D TIOCOBREXTIO]
+ V[III     M D             ]
+[VIII      M D             ]
+[VIIII     M D SINDIV  IVOS]
+[X         M D             ]
+[XI          D AMB         ]
+[XII       M D             ]
+[XIII        D   EQVI      ]
+[XIIII     NSDS  EQVI      ]
+[XV        NSDS  EQVI      ]
+
+[ATENOV]X
+
+[I         NSDS  EQ]VI
+[II          D   EQ]VI
+[III         D   EQV]I AMB
+[IIII      M D      ]
+[V           D    AMB   ]
+[VI    ITT   D  EQVI      ]
+[VII         D  AMB       ]
+[VIII      M D            ]
+[VIIII       D  AMB       ]
+[X         M D            ]
+[XI          D  AMB       ]
+[XII       M D            ]
+[XIII        D  AMB       ]
+[XIIII     NSDS  MAT      ]
+[XV        NSDS  AMB      ]
+
+#COLUMN-15 BOTTOM HALF
+#MONTH-8 YEAR-5
+#page 114

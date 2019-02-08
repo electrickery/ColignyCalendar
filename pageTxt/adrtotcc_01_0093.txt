@@ -1,0 +1,40 @@
+
+[M EDRINI MAT]
+
+[I        D    CANTLI   ]
+[II     M D             ]
+[III    M D             ]
+[IIII   M D             ]
+[V        D      AMB    ]
+[VI      PRIN   LOVD    ]
+[VII      D      CANT   ]
+[VIII     D]    CANTL
+[VIIII    D]    CANTL
+ X      M D
+ XI       D     AMB
+ XII TII  M D
+ XIII ITI M D
+ XIIII IIT M D
+ XV      M D
+
+ ATENOVX
+
+ I           D  ELEMB
+ II          D  ELEMB
+ III         D ELEM AMB
+ IIII  ITI M D
+ V     IIT   D
+ VI    IIT ()D
+ VII         D  CANTL AMB
+ VIII        D  CANTL
+ VIIII       D  CANTL AMB
+ X     ITI M D
+ XI    IIT   D   AMB
+ XII       M D
+ XIII        D   AMB    IVO
+ XIIII      M D         IVO
+ XV          N(SDS)(AMB)IVO
+
+#COLUMN-10 BOTTOM HALF
+#MONTH-11 YEAR-3
+#page 93

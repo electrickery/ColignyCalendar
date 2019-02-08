@@ -1,0 +1,40 @@
+
+ M CANTLOS AN[M]
+
+ I      M D AEDRINI IVOS
+ II       D         IVOS
+ III      D         IVOS
+ IIII     PRINNI LAG
+ V        D   AMB
+ VI       D
+ VII    SAMON PRINI LOVDN
+ VIII     D   DVMANI
+ VIIII  M D  SAMONI
+ X        D
+ XI       D   AMB
+ XII      D
+ XIII     D
+ XIIII    D
+ XV       D   TIOCOBREX
+
+ ATENOVX
+
+ I        D
+ II       D
+ III      D    AM[B]
+ IIII     N   INI[S R     ]
+ V        D[  AMB         ]
+ VI  [IIT D               ]
+[VII      D  AMB SAMON    ]
+[VIII     N  SAMON  INIS R]
+[VIIII    N  SAMON  INIS R]
+[X        D               ]
+[XI       D   AMB  IVO    ]
+[XII      D       IVO     ]
+[XIII     D  AMB  IVO     ]
+[XIIII    D       IVO     ]
+  [DIVERTOM]V
+
+#COLUMN-10 BOTTOM HALF
+#MONTH-12 YEAR-3
+#page 94

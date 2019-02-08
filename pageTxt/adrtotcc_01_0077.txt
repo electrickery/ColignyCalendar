@@ -1,0 +1,39 @@
+
+[M EQ]VOS A[NM]
+
+ I          D[           ]
+ II     PRI[NI LAG       ]
+ III      M D[SIMIVISO   ]
+ IIII       D[           ]
+ V          D[   AMB     ]
+ VI   ITI M[D  SIMIVISO  ]
+ VII        D[           ]
+ VIII      [PRINI LAG    ]
+ VIIII     [N            ]
+ X          D[           ]
+[XI         D    AMB     ]
+[XII        D            ]
+[XIII IIT M]D    SEMIVISO
+[XIIII    M]D    SEMIVISO
+[XV       M]D    SEMI
+
+[ATE]NOVX
+
+[I        M D  SE]MIV
+[II   TII M D  SEM]I
+[III  ITI   D  AMB SI]MIV
+[IIII       D            ]
+[V          D AMB        ]
+[VI  {IIT   D AMB        ]
+[VII        D AMB        ]
+[VIII       D            ]
+[VIIII      D AMB        ]
+[X          D            ]
+[XI    TII  D AMB IVOS   ]
+[XII   ITI  D     IVOS   ]
+[XIII  IIT  D AMB IVOS   ]
+[DIVERTOMV               ]
+
+#COLUMN-6 BOTTOM HALF
+#MONTH-9 YEAR-2
+#page 77

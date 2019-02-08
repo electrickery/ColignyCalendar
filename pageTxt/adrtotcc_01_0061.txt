@@ -1,0 +1,39 @@
+
+[M OGRON  MAT]
+
+[I      M D               ]
+[II     M D               ]
+[II]I    [PRINNI LOVD     ]
+ IIII   M [D              ]
+ V         N[  INIS  R    ]
+ VI      M D[             ]
+ VII     M D CVTIO        ]
+ VIII    M D CV[TIO       ]
+ VIIII     N CVT[IO INIS R]
+ X       M  D    [        ]
+ XI         D    A[MB     ]
+ XII     M  D     [       ]
+ XIII     M D     [       ]
+ XIIII    M D     [       ]
+ XV       M D     [       ]
+
+ATENOVX   [       ]
+ I       M  D     CVTI[O  ]
+ II      M  D     CVTI[O  ]
+ III        D  CV[TIO AMB ]
+ IIII    M [D             ]
+[V          D      AMB    ]
+[VI IIT  M  D             ]
+[VII        D    AMB CVTIO]
+[VIII     M D   OGRO CVTIO]
+[VIIII      D    AMB CVTIO]
+[X       M  D             ]
+[XI         D    AMB      ]
+[XII     N   INIS      R  ]
+[XIII       D    AMB   IVO]
+[XIIII    M D          IVO]
+[XV         D    AMB   IVO]
+
+#COLUMN-2 BOTTOM HALF
+#MONTH-5 YEAR-1
+#page 61

@@ -1,0 +1,40 @@
+
+ M SIMIV[I MA]T
+
+ I      GIAMON P[RINI LAG]
+ II     M  D   [         ]
+ III       D EQ[VI       ]
+ IIII   M  D   [         ]
+ V         N [INIS R     ]
+ VI        D EQVI
+ VII       D EQVI
+ VIII     EQVI PRINNI LAG
+ VIIII     D      EQVI
+ X      M  D
+ XI   TII  D    AMB
+ XII  ITI  M D
+ XIII      D    EQVI
+ XIIII     D    EQVI
+ XV        D    EQVI
+
+ ATENOVX
+
+ I           D   EQVI
+ II          D   EQVI
+ III         D EQVI AMB
+[IIII IIT  M D            ]
+[V           D      AMB   ]
+[VI   IIT    D EQVI       ]
+[VII         D AMB EQVI   ]
+[VIII        D EQVI       ]
+[VIIII       D AMB EQVI   ]
+[X    IIT   M D           ]
+[XI          D AMB    IVOS]
+[XII        M D      IVOS ]
+[XIII        D AMB    IVOS]
+[XIIII      NSDS MAT IVOS ]
+[XV         NSDS AMB  IVOS]
+
+#COLUMN-9 BOTTOM HALF
+#MONTH-8 YEAR3
+#page 90

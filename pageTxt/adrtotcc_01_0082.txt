@@ -1,0 +1,41 @@
+
+ M DVM[AN ANM]
+
+ I      SAMON PRIN LOD EX[IVO]
+ II       N        IVOS
+ III      D        IVOS
+ IIII     D        IVOS
+ V        PRINNI   LAGE
+ VI       D
+ VII      N   INIS   R
+ VIII   ITI M D  SAMONI
+ VIIII    D
+ X        D
+ XI       N      INIS R
+ XII      D
+ XIII     D
+ XIIII    N
+ XV       D
+
+
+ ATENOVX
+
+ I    M[D     SAMONI      ]
+ II   M[D     SAMONI      ]
+ III   [D     AMB         ]
+ IIII  [D                 ]
+ V      D    [AMB         ]
+ VI IIT D [M              ]
+ VII    D    [AMB      ]
+ VIII   D           ]
+ VIIII  N     INIS R
+ X      D
+ XI     D     AMB
+ XII    N     INIS R
+ XIII   D     AMB
+ XIIII  NSDS
+  DIVERTOM
+
+#COLUMN-7 BOTTOM HALF
+#MONTH-2 YEAR-3
+#page 82

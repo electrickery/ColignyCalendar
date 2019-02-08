@@ -1,0 +1,40 @@
+
+ M CANTLOS ANM
+
+ I     M D EDRINI
+ II      D
+ III     D
+ IIII    PRINNI LAGE
+ V       D   AMB
+ VI      D     [      ]
+ VII     D  [         ]
+ VIII    D  [         ]
+ VIIII   D     [      ]
+ X       D
+[XI      D]   AMB
+[XII     N]
+[XIII    D]
+[XIIII   D]
+[XV      D T] IOCOBREXTIO
+
+[ATEN]OVX
+
+[I       D]
+[II      D]
+ III    [D]   AMB
+ IIII    N    INIS R
+ V       D    AMB
+ VI IIT  D   
+ VII     D    AMB
+ VIII    D
+ VIIII   D    AM[B    ]
+ X       D     [      ]
+ XI      D    A[MB    ]
+ XII     D     [      ]
+ XIII TII D AMB[  IVO ]
+ XIIII*ITI D  [   IVO ]
+[DIVERTOMV            ]
+
+#COLUMN-7 TOP HALF
+#MONTH-12 YEAR-2
+#page 80

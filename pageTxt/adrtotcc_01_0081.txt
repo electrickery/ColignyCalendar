@@ -1,0 +1,40 @@
+
+[M SAMON MAT    ]
+
+[I        N DVMAN] IVO
+[II ITI M D      ] IVOS
+[III      D    DV]M ALE IVO
+[IIII   M D      ]
+[V        D    AM]B
+[VI     M D      ]
+[VII      PRIN   ]LOVD
+[VIII     D     DV]MANI
+[VIIII IIT M D             ]
+[X      M D                ]
+[XI       D    AMB         ]
+[XII    M D                ]
+[XIII     N                ]
+[XIIII ITI M D             ]
+[XV    IIT M D             ]
+
+[ATENOVX     ]
+
+[I         D      DVMAN    ]
+[II IIT   M D TRI(TI)NVX SAMO]
+[III       D         AMB   ]
+[IIII TII M D              ]
+[V    ITI D      AMB       ]
+[VI   IIT M D              ]
+[VII      D         AMB    ]
+[VIII     N   INIS    R    ]
+[VIIII    N   INIS    R    ]
+[X   {TII M D}             ]
+[XI   ITI D     AMB IVOS   ]
+[XII  IIT M D              ]
+[XIII     D     AMB IVOS   ]
+[XIIII    M D       IVOS   ]
+[XV       D     AMB IVOS   ]
+
+#COLUMN-7 BOTTOM HALF
+#MONTH-1 YEAR-3
+#page 81

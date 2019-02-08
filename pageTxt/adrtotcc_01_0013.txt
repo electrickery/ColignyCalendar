@@ -1,0 +1,48 @@
+Reconstructed Text of the Coligny Calendar 13
+
+calendar in each 5-year phase. Furthermore, in place of MacNeill’s and
+Plinius’s 30-year cycle, such a calendar follows a 25-year cycle. In such
+a repetitive 25-year cycle the sun falls 1.055 days behind the calendar
+and the moon runs 5.048 days ahead of the calendar in each cycle (as
+opposed to 1.266 days error for the sun and 0.151 days error for the
+moon in the 30-year cycle).
+
+Under the scheme of the 25-year cycle the normal sequence of
+marks TH, ITI, IIT, each falling one day apart, can be explained as an
+indication of the regular 1-day lag in the sun in each such 25-year
+cycle. Thus the triple marks stand for a triple sequence of 3 separate
+25-year cycles. Since with each advance in a 25-year cycle the months
+all begin in a new 5-day week of the moon, the three mark-types (TH,
+ITI, IIT) also stand for a 3-fold division of each lunar fortnight (with
+3 five-day phases in each fortnight). For each new 25-year cycle the TH
+marks then indicate the advance of the lunar-week phases as well.
+
+The nature of the TII mark thus not only indicates the 5-day
+week phase of the moon under which the months in each 25-year cycle
+begin, but the mark also denominates the cycle as a whole. Further-
+more, to the 5-day lunar-week indicated by the TI mark one can simply
+add an additional day for each 5-year phase passed through in the 25-
+year cycle to keep exact track of the moon. The TII mark then gives not
+only the number of the 25-year cycle and the corresponding fall-back
+of the sun, but the 5-day phase of the moon with which each month
+begins in that cycle as well!
+
+With the TII marks the calendar then keeps track of the regular
+1-day regression of the sun and the 5-day progression of the moon with
+respect to the calendar in each 25-year cycle. The actual reckoning of
+the position of the sun would be off by only 0.055 days and that of the
+moon by only 0.048 days in each 25-year cycle. Thus the calendar
+scheme falls into error with respect to either body by less than 1 day in
+every 455 years!
+
+This extreme accuracy of the 25-year cycle may be compared
+to the error in the 30-year cycle of 0.266 days with respect to the sun
+and 0.151 days with respect to the moon in each 30-year cycle (with the
+30-year calendar assuming the same 1-day known lag of the sun and an
+exact lunar sequence; see 1992: tables 45a and 46a and b). Under the
+30-year cycle the reckoning with respect to the sun would fall into error
+by 1 day every 113 years, an accuracy in itself comparable to that of
+the Julian calendar, but in no way approaching the accuracy of the 25-
+year cycle. The lunar reckoning for the 30-year cycle is more accurate
+than the solar reckoning, being off by 1 day every 199 years.
+

@@ -1,0 +1,40 @@
+
+[M CVTIOS MAT]
+
+[I         M D             ]
+[II        M D             ]
+[III       M D             ]
+[IIII        PRINNI LOVD   ]
+[V           N INI  R      ]
+[VI        M D             ]
+[VII       M D   QVTIO     ]
+[VIII      M D   QVTIO     ]
+[VIIII       N QVTIO INIS R]
+[X         M D             ]
+[XI          D  AMB        ]
+[XII       M D             ]
+[XIII      M D             ]
+[XIIII     M D             ]
+[XV        M D             ]
+
+[ATENOVX ]
+
+[I    ITI  M D   OGRONI    ]
+[II   IIT  M D   OGRO      ]
+[III         D  AMB OGR    ]
+[IIII        N  INIS  R    ]
+[V           D  AMB        ]
+[VI          N  INIS  R    ]
+[VII   TII D AMB  QVTIO    ]
+[VIII  IIT   M D OGRO QVTIO]
+[VIIII IIT   D  AMB  QVTIO ]
+[X         M D             ]
+[XI          D  AMB        ]
+[XII       M D             ]
+[XIII   TII  D  AMB    IVO ]
+[XIIII  ITI  M D       IVO ]
+[XV     IIT  D AMB QVT IVO ]
+
+#COLUMN-12 TOP HALF
+#MONTH-6 YEAR-4
+#page 100

@@ -1,0 +1,40 @@
+
+ M CVT[IOS MAT]
+
+[I       M D          ]
+[II      M D          ]
+[III     M D          ]
+ II[II     PRINNO LOVD]
+ V[        N  INI    R]
+ V[I       N          ]
+[VII     M D          ]
+[VIII    M D          ]
+[VIIII     N    INI  R]
+[X   TII   M D        ]
+[XI  ITI   D    AMB   ]
+[XII IIT M D          ]
+[XIII    M D          ]
+[XIIII   M D          ]
+[XV      M D          ]
+
+[ATENOVX     ]
+
+[I  ITI  M D    OGRONI]
+[II  IIT M D    OGRO  ]
+[III       N    OGRONI]
+[IIII      N    INI  R]
+ V[        D    AMB   ]
+ VI[       N    INI  R]
+ VII TI[I  D    AMB   ]
+ VIII IIT [M D  OGRONI]
+ VIIII IIT [D   AMB   ]
+ X       M D[         ]
+ XI        D[   AMB   ]
+ XII     M D[         ]
+ XIII TII  D[  AMB IVO]
+ XIIII I[TI M D    IVO]
+ XV [{IIT D    AMB}IVO]
+
+#COLUMN-8 BOTTOM HALF
+#MONTH-6 YEAR-3
+#page 86

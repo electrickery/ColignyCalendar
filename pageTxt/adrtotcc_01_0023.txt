@@ -1,0 +1,46 @@
+Reconstructed Text of the Coligny Calendar 23
+
+The D AMB scheme would count the hours later than sunset
+the moon sets each day beginning with the new moon as follows: (new
+moon) ID 1 hr, I D 2 hrs, [i] D 3 hrs, INI D 4 hrs, V D AMB 3 hrs, VI
+D 4hrs, VITD 5 hrs, VII D 6 hrs, VIII D7 hrs, X D 8hrs, XI D AMB
+7 hrs, XII D 8 hrs, XIII D 9 hrs, XIII D 10 hrs, XV D 11 hrs; (full
+moon) ANTENOVX ID 12 hrs, ANTENOVX IID 1 hr, ANTENOVX
+fil D AMB 12 hrs ANTENOVX IDI D 1 hr, ANTENOVX V D AMB
+12 hrs, ANTENOVX VID 1 hr, ANTENOVX VII D AMB 12 hrs,
+ANTENOVX VIII D 1 hr, ANTENOVX VIII D AMB 12 hrs,
+ANTENOVX X D 1, ANTENOVX XID AMB 12 hrs, ANTENOVX
+XII D 1 hr, ANTENOVX XIII D AMB 12 hrs, ANTENOVX XIII D
+1 hr, ANTENOVX XV D AMB 12 hrs; (new moon) ID 1 hr, etc. Here
+the indication 12hrs would be equivalent to O for the hours till moon
+rise following the sunset.
+
+Notice that the scheme does count the time of moon set
+between the period between the new moon and the full moon, assuming
+the new moon occurs at the beginning of each month, as occurred at the
+beginning of the 1000-year period during which the 30-year calendar
+was in use. During the ATENOVX half of the month, assuming this
+occurs between the full moon and the new moon, when the moon rises
+and sets an hour later each day and the crescent becomes smaller and
+smaller, a period of increasing darkness, the D AMB counting scheme
+simply ratchets between 12 hrs (0 hrs) and 1 hr. The whole scheme
+simply counts the time elapsed till the onset of the period in which
+starlight will be the sole source of light after sunset. The calendar
+seems to be only interested in how much additional time each night
+will be lighted by the moon after sunset and has no concern with how
+much additional moonlight is added to the period preceding dawn.
+Obviously if a sundial is the sole means of telling time, the span of time
+preceding dawn could not be accurately determined.
+
+Such a scheme indeed suggests the use of a sundial which
+Starts each day at a sunrise of 1 o’clock; the calendar counts around the
+additional hours of lightness which will be added to daylight by
+moonlight after sunset. Perhaps in the pseudo-science of the calendar,
+this D-AMB counting of the period the moon sets later each day may
+have been tied to the concept of the noux sonno, whence its importance
+in being noted on the calendar.
+
+If this analysis is then correct, it indicates that not only did the
+Gauls utilize an inch measure to subdivide the foot, but they subdivided
+the day into 12 hours as well. Although the unciae Drusianus is certain,
+

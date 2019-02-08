@@ -1,0 +1,40 @@
+
+ M ANAGAN ANM
+ 
+ I        M D RIVRI  IX IVO[S ]
+[II         D           IVOS  ]
+[III        D           IVOS  ]
+[IIII       N OC(T)IOM(V)RIVRI]
+[V          N   INIS       R  ]
+[VI         PRINNI LAG        ]
+[VII      NSDS                ]
+[VIII       D                 ]
+[VIIII      D                 ]
+[X]         D     [           ]
+ XI         D A[MB            ]
+ XII        D
+ XIII       D
+ XIIII      D
+ XV         D
+ 
+ ATENOVX
+ 
+ I          D
+ II         D
+ III    TII D AMB
+ IIII*  ITT D
+ V      IIT D AMB
+ VI         N INIS  R
+ VII        N INIS  R
+ VIII       D
+ VIIII      N INIS  R
+ X      ITI D
+ XI     IIT D AMB 
+ XII        D
+ XIII       D AMB
+ XIIII      D
+ DIVORTOMV
+ 
+#COLUMN-5 TOP HALF
+#MONTH-4 YEAR-2
+#page 72

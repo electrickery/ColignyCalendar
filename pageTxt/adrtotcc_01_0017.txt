@@ -1,0 +1,45 @@
+Reconstructed Text of the Coligny Calendar 17
+
+duodecim "twelve" to develop *trideciomos. More likely then is
+*tritios deciomos (dative = ?tritiu deciomu?) or perhaps compounded
+as “tritio-deciomos (dative *tritio-deciomu) for the original form
+behind *TRICIOMV.
+
+The N-Counting Scheme
+
+The N-counting scheme represents the first stage in the
+development of the procedures to predict the position of the sun with
+respect to the lunar-based calendar. Since the intercalary months
+recapitulate the pathway of the sun with respect to the calendar,
+superficially the N-counting scheme might seem to have developed
+from the notation of the intercalary months. MacNeill (1926: 40) was
+the earliest researcher to note that N "falls at dates from which the days
+of the intercalary months derive their notation". MacNeill’s proposal
+was later catalogued by Duval in 1966 (277-88). However, like
+MacNeill, Duval failed to understand N’s true significance, labelling it
+"N commémoratif'. Duval, thus, adopted MacNeill’s erroneous view
+that the N’s represent a commemoration of the days utilized in the
+intercalary notation.
+
+In spite of the failure of previous researchers to grasp its
+significance, the N-counting scheme works ina simple straight-forward
+fashion. Considering the other counting schemes on the calendar, there
+can be no doubt whatsoever as to the function of N. With each month’s
+advance, the calendar simply indicates a 1-day advance in the notation
+N (see Olmsted 1992: table 20). Here N stands for *noux "night" and
+is itself a shortening of NS, presumably for *noux sonno "anight of the
+sun". During a *noux sonno the calendar priests apparently assumed
+that the sun retraced backwards the progress it made during the course
+of that day. Such a 1-day retrenchment each month would then explain
+the 1-day lag behind the moon each month. This 1-day advance in N
+thus accounts for the roughly 1-day lag of the sun behind the moon
+with each passing month. Since there are 29.531 days in a lunar month,
+but 30.437 days in 1/12 a solar year, in the course of a month the sun
+actually lags behind the moon by 0.906 days, which is close to 1 day.
+
+The connection between the days labeled N and the notation of
+the intercalary months is in reality somewhat fortuitous, although both
+derive from the same ultimate source. The notation of the intercalary
+months corresponds to the 30 days added to the calendar to make up for
+the 1-day lag of the sun behind the calendar which is supposed to occur
+

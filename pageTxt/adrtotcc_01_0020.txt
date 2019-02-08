@@ -1,0 +1,47 @@
+20 Reconstructed Text of the Coligny Calendar
+
+intercalary solstices at Int-1 days 25 and 13 (see 1992: tables 20 and
+26b), we see that the counts actually do skip 6 days. With such a
+scheme one can keep track of the sun with an inherent variational error
+of about + 3 days. But note carefully since 6 days rather than 5 days are
+leaped over in the Coligny N-counts, the calendar must have had 1832
+rather than 1831 days.
+
+Although on the Coligny calendar the N-counting scheme
+adopts a 6-day shift consistent with an 1832-day calendar, the N count-
+ing scheme system itself makes more sense as a solstice predictor in a
+calendar with 1831 days. With the present 6-day shift, the count leaps
+over the solstices in Qutios in years 6 and 16 (1992: table 26b). With
+a 5-day shift it would not do this (1992: table 24a-b). This leap over
+the two solstices suggests that the present 1832-day calendar (recycling
+every 25 years) actually developed from an earlier 1831-day exact
+lunar calendar (recycling every 30 years).
+
+Adopting a 5-day leap, alternately at the beginning and in the
+middle of each 5-year phase, this earlier 183 1-day calendar then simply
+moved the N forward a day each month to account for the approximate
+1-day fall-back of the sun each month. Such a calendar is capable of
+predicting solar positions within + 3 days and is inaccurate by an
+additional 1 day ever 113 years. In keeping track of the sun, this purely
+lunar calendar assumes a 1-day known shift every 30 years.
+
+The counting scheme of the 1831-day calendar is simple
+enough that it could have been used in a purely oral calendar. Indeed,
+the known shift of the calendar with respect to solar time by | day
+every 30 years suggests that the calendar was deliberately allowed to
+progress 1 day earlier with respect to the sun every 30 years. This 1-day
+fall-back of the sun with respect to the calendar every 30 years has the
+effect of shifting every 30 years the lunar festivals associated with the
+solstices and equinoxes 1 day earlier than solar time and the actual
+events these festivals commemorate. On the Coligny calendar such
+festivals are labeled IVOS and always occur as a block of days
+centering around day 1 or la.
+
+As noted, such a 30-year cycle calendar would have to have
+been in operation for 1000 years to explain why the months began on
+the sixth day of the moon as recorded by Plinius. By his time the
+Gaulish calendar had shifted by five days from the original scheme of
+the months beginning on the first day of the moon (1 day’s shift for
+each 199 years). The term ATENOVX “returning night” (indicating the
+full moon) on the sixteenth day of each month of the Coligny calendar
+

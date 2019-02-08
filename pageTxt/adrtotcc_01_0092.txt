@@ -1,0 +1,40 @@
+
+[M ELEMB AMN ]
+
+[I           D    IVOS     ]
+[II          D    IVOS     ]
+[III        PRINNI LAG IVOS]
+[IIII        D             ]
+[V           D AMB         ]
+[VI          D             ]
+[VII    ITI  M D EDRIN TIOCOB]
+ VIII  [IIT  M D ED]RIN TIOCOB
+ VIIII      M D  EDRINI
+ X           N INIS R
+ XI          D AMB
+ XII         D
+ XIII        D
+ XIIII       D
+ XV          D
+
+ ATENOV[X]
+
+ I        [M D  EDRINI     ]
+ II[       M D  EDRINI     ]
+[III     TII D  AMB EDRIN  ]
+[IIII        D             ]
+[V           D     AMB     ]
+[VI      IIT D             ]
+[VII         D  EDRINI AMB ]
+[VIII       M D EDRINI     ]
+[VIIII   TII  D AMB EDRINI ]
+[X           D  SIND IVOS  ]
+[XI          D     AMB     ]
+[XII         D             ]
+[XIII        D    AMB      ]
+[XIIII       D             ]
+[DIVERTOMV                 ]
+
+#COLUMN-10 TOP HALF
+#MONTH-10 YEAR-3
+#page 92

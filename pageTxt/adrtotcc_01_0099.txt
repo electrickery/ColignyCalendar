@@ -1,0 +1,40 @@
+
+ M OG]RONN [MA]T
+
+[I       M D             ]
+[II      M D             ]
+[III       PRINNI LOVD   ]
+[IIII    M D             ]
+[V         N INIS  R     ]
+[VI      M D             ]
+[VII     M D QVTIO       ]
+[VIII    M D QVTIO       ]
+[VIIII     N QVTIO INIS R]
+[X       M D             ]
+[XI        D   AMB       ]
+[XII     M D             ]
+ XI[II   M D             ]
+ XIIII[  M D             ]
+ XV    [  NSDS           ]
+
+ ATENOVX
+
+ I    TII M D     QVTIO
+ II   ITI M D     QVTIO
+ III   IIT  D   AMB QVTIO
+ IIII     M D
+ V          D   AMB
+ VI      (M)D TIT
+ VII  TTI(D)AMB  QVTIO
+ VIII  IIT  M D OGRO QVTIO
+ VIIII IIT  D   AMB QV[TIO]
+ X        M D[            ]
+ XI        [D  AMB        ]
+ XII      [ N INIS R      ]
+ XIII  [ITI D  AMB    IVO ]
+ XIIII[ IIT M D       IVO ]
+ XV [       D  AMB    IVO ]
+
+#COLUMN-12 TOP HALF
+#MONTH-5 YEAR-4
+#page 99

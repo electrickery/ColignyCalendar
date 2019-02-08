@@ -1,0 +1,40 @@
+
+ M EQVOS A[NM  ]
+
+ I          D       [     ]
+ II         PRINI LAG[    ]
+ III        N   SEMIVI[   ]
+ IIII  IIT  D
+ V          D    AMB
+ VI       M D   SIM
+ VII        D
+[VIII]      PRINI LAG
+[VII]II ITT D
+[X]     ITT D
+[X]I        D     AMB
+[XI]I       D
+[XII]I    M D SIMI
+[XIII]I   M D SIMI
+[XV]      M D SIMI
+
+[ATE]NOVX
+
+[I        M D]   SEMIV
+[II   TII M D]   SEMIV
+[III  ITI   D AMB] SEMIV
+[IIII       D]
+[V    TII   D     AM]B
+[VI   IIT   D    SIM]IV
+[VII  IIT   D   AMB ]
+[VIII       D       ]
+[VIIII      D   AMB  ]
+[X          D            ]
+[XI   TII   D  AMB IVOS  ]
+[XII  ITI   D      IVOS  ]
+[XIII IIT   D  AMB IVOS  ]
+[XIIII      D      IVOS  ]
+[DIVERTOMV               ]
+
+#COLUMN-13 TOP HALF
+#MONTH-9 YEAR-4
+#page 103

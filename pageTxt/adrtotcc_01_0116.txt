@@ -1,0 +1,40 @@
+
+[M ELEM]BIV ANM
+
+[I           D]     IVO
+[II          D]     IVO
+[III      PRINI]L[AG IVO ]
+[IIII        N      IVO  ]
+[V    IIT    D AMB       ]
+[VI          D           ]
+[VII         D           ]
+[VIII        D           ]
+[VIIII TII   D           ]
+[X     ]     N [INI   R  ]
+[XI  ] IIT   D [AMB      ]
+ XII         D     [     ]
+ XIII        D      [    ]
+ XIIII       D      [    ]
+ XV          N(SDS) [    ]
+
+ ATENOVX
+
+ I           N  IDRIN[I  ]
+ II        M D  EDRI[NI  ]
+ III         D AMB E[DRIN]
+ IIII        D      [    ]
+ V           D   AMB
+ VI   TIT    D
+ VII  ITI    D   AMB
+ VIII IIT    D
+ VIIII       D   AMB
+ X           D 
+ XI          D   AMB
+ XII   TII   D
+ XIII  ITI   D   AMB
+ XIIII ITI   D
+    DIVERTOMV
+
+#COLUMN-16 TOP HALF
+#MONTH-10 YEAR-5
+#page 116

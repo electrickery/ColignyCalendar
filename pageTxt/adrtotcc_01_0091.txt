@@ -1,0 +1,39 @@
+
+ M EQVOS ANM
+
+ I           D     IVOS
+ II        PRIN LAG IVOS
+ I[II]     M D (SEMI)IVOS
+[IIII        D]      IVOS
+[V           D       AMB ]
+[VI    ITI M D   SIMIVISO]
+[VII         D     ELEMBI]
+[VIII        D     ELEMBI]
+[X           D           ]
+[XI          D       AMB ]
+[XII         D           ]
+[XIII IIT    M D SEMIVIS ]
+[XIIII      M D  SEMIVIS ]
+[XV        M D SEMIVIS   ]
+
+[ATENOVX]
+
+[I        M D   SEMIVIS ]
+[II   TII M D   SEMIVIS ]
+[III  ITI   D  AMB SIMIV]
+[IIII       D           ]
+[V          D       AMB ]
+[VI   IIT   D  SIMISO   ]
+[VII        D  ELEM AMB ]
+[VIII       D  ELEMB    ]
+[VIIII      D  AMB ELEM ]
+[X          D           ]
+[XI         D       AMB ]
+[XII        D           ]
+[XIII       D       AMB ]
+[XIIII      D           ]
+[XV         D       AMB ]
+
+#COLUMN-10 TOP HALF
+#MONTH-9 YEAR-3
+#page 91

@@ -1,0 +1,40 @@
+
+ M EDRINI MAT
+
+ I           D CA[NTLOS IVO]
+ II        M[D         IVO ]
+[III       M D         IVO ]
+[IIII      M D             ]
+[V           N             ]
+[VI        PRIN   LOVD     ]
+[VII       M D    TIOCOB   ]
+[VIII      M D    TIOCOB   ]
+[VIIII     M D             ]
+[X         M D             ]
+[XI          D       AMB   ]
+ XII       M D      [      ]
+ XIII      M D
+ XIIII     M D
+ XV        M D
+
+ ATENOVX
+
+ I           N(SDS) ELEMB
+ II          N(SDS)(ELEMB)
+ III         D     AMB ELEMB
+ IIII      M D
+ V           D      AMB
+ VI   IIT ( )D
+ VII         D      AMB
+ VIII      M D
+ VIIII       D      AMB
+ X        M  D    SINDIV IVO
+ XI          D      AMB
+ XII       M D
+ XIII        D      AMB
+ XIIII     M D
+ XV          N(SDS)(AMB)
+
+#COLUMN-16 BOTTOM HALF
+#MONTH-11 YEAR-5
+#page 117
