@@ -7,12 +7,12 @@ the only instance of leaving off the day number on the calendar. Clearly
 DECIOMIV “the tenth” goes in place of the expected XIII “the
 thirteenth”.
 
-Even without the DEWORIV of Rivros 12 year 1, correctable
+Even without the DEVCORIV of Rivros 12 year 1, correctable
 to DECIOMIV on analogy with OC(T)IOMV above, one may
 reconstruct the form [DECIO]MIV for the ordinal numeral designation
 of the day now found at Rivros 13 year 2, since we know that this day
 was transferred from Rivros 10a year 2. The form [DECIO]MIV
-guarantees that the R or RI of DEWORIV should be corrected to an M
+guarantees that the R or RI of DEVCORIV should be corrected to an M
 and that our surmise, above, was correct. This reconstruction would
 then project a Gaulish ordinal numeral *deciomo-s, *deciamo-s "the
 tenth" corresponding to IE *dekemo-s (IEW: 192), an alternative to the

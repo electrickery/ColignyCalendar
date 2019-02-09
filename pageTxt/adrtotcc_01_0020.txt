@@ -35,7 +35,7 @@ effect of shifting every 30 years the lunar festivals associated with the
 solstices and equinoxes 1 day earlier than solar time and the actual
 events these festivals commemorate. On the Coligny calendar such
 festivals are labeled IVOS and always occur as a block of days
-centering around day 1 or la.
+centering around day 1 or 1a.
 
 As noted, such a 30-year cycle calendar would have to have
 been in operation for 1000 years to explain why the months began on

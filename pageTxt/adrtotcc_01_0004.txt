@@ -13,10 +13,10 @@ segments duplicating the missing notation were copied from surviving
 fragments of the Coligny calendar and then were utilized to fill in the
 missing sequences on the calendar maintaining the original spatial
 integrity of the fragmentary mosaic (originally reproduced digitally at
-high resolution from the RIG: III originals to %4 scale and 1200 dpi
+high resolution from the RIG: III originals to ¾ scale and 1200 dpi
 halftone, but of necessity depicted here at much lower resolution in the
-month plates to % scale and 300 dpi grayscale to comply with the
-printer’s specifications and shown in plates 2 and 3 at about ¥% scale).
+month plates to ½ scale and 300 dpi grayscale to comply with the
+printer’s specifications and shown in plates 2 and 3 at about 1/8 scale).
 Indeed, the original fragmentary mosaic (plate 2) is still embedded in
 the digitally-reconstructed whole calendar (plate 3). Thus the fragmen-
 tary calendar was brought to photographic completion utilizing the
@@ -24,7 +24,7 @@ original wording and engraving to be found on the surviving fragments.
 
 As the photographic reproduction presented here actually
 preserves the original fragments of the calendar, the typescript
-reconstruction presented in my1992 study is shown to be one which fits
+reconstruction presented in my 1992 study is shown to be one which fits
 within the parameters of the original calendar and lines up with the
 surviving notation. The reconstruction of the calendar based upon the
 date patterns of the surviving notation presented in my previous studies

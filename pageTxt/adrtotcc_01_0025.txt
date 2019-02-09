@@ -1,7 +1,7 @@
 Reconstructed Text of the Coligny Calendar 25
 
-symbol é was available but for € only é was available, etc., creating
-confusion whenever €, 4, or O was called for in the text and é, a, or 6
+symbol é was available but for ē only é was available, etc., creating
+confusion whenever ē, ā, or ō was called for in the text and è, à, or ò
 were used instead. The standard PIE phonetic symbols utilized by
 Pokorny were also unavailable in column mode. Therefore it is
 justifiable to return to the etymologies of some of the more important
@@ -41,6 +41,6 @@ form, and only then can one attempt to establish an etymology.
 
 The shifted days with written-out ordinal numerals indicating
 which days they were shifted from provide prime examples of the need
-to examine the terms in their zusammenhdngend relationship to each
+to examine the terms in their zusammenhängend relationship to each
 other. The degree of abbreviation, the corruption in the transmission
 

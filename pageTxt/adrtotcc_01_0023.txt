@@ -2,15 +2,15 @@ Reconstructed Text of the Coligny Calendar 23
 
 The D AMB scheme would count the hours later than sunset
 the moon sets each day beginning with the new moon as follows: (new
-moon) ID 1 hr, I D 2 hrs, [i] D 3 hrs, INI D 4 hrs, V D AMB 3 hrs, VI
-D 4hrs, VITD 5 hrs, VII D 6 hrs, VIII D7 hrs, X D 8hrs, XI D AMB
+moon) I D 1 hr, II D 2 hrs, III D 3 hrs, IIII D 4 hrs, V D AMB 3 hrs, VI
+D 4hrs, VII D 5 hrs, VIII D 6 hrs, VIIII D7 hrs, X D 8hrs, XI D AMB
 7 hrs, XII D 8 hrs, XIII D 9 hrs, XIII D 10 hrs, XV D 11 hrs; (full
-moon) ANTENOVX ID 12 hrs, ANTENOVX IID 1 hr, ANTENOVX
-fil D AMB 12 hrs ANTENOVX IDI D 1 hr, ANTENOVX V D AMB
-12 hrs, ANTENOVX VID 1 hr, ANTENOVX VII D AMB 12 hrs,
-ANTENOVX VIII D 1 hr, ANTENOVX VIII D AMB 12 hrs,
+moon) ANTENOVX ID 12 hrs, ANTENOVX II D 1 hr, ANTENOVX
+III D AMB 12 hrs ANTENOVX IIII D 1 hr, ANTENOVX V D AMB
+12 hrs, ANTENOVX VI D 1 hr, ANTENOVX VII D AMB 12 hrs,
+ANTENOVX VIII D 1 hr, ANTENOVX VIIII D AMB 12 hrs,
 ANTENOVX X D 1, ANTENOVX XID AMB 12 hrs, ANTENOVX
-XII D 1 hr, ANTENOVX XIII D AMB 12 hrs, ANTENOVX XIII D
+XII D 1 hr, ANTENOVX XIII D AMB 12 hrs, ANTENOVX XIIII D
 1 hr, ANTENOVX XV D AMB 12 hrs; (new moon) ID 1 hr, etc. Here
 the indication 12hrs would be equivalent to O for the hours till moon
 rise following the sunset.

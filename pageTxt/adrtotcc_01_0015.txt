@@ -20,7 +20,7 @@ sam, samoni, samo, and smo. I think that one can see that these ordinal
 numeral day abbreviations are consistent with other abbreviations on
 the calendar (such as occur in these months names).
 
-The term DEWORIV G PIVRI for DECVORIV G PIVRI or
+The term DEVCORIV G PIVRI for DECVORIV G PIVRI or
 DECI/ORIV G PIVRI occurs on Rivros 13 in year 1. Here the C is
 written over top of the left hand fork of the V making the reading
 ambiguous as a correction to CI or CV. The apparent L in the alterna-
@@ -32,14 +32,14 @@ almost but not quite closed. The PIVRI is clearly a mistake for RIVRI.
 I think that what was intended here was *DECIOMIV G RIVRI or
 *DECIOMV G RIVRI, with the M misinterpreted as a RI at some stage
 in the transmission process and the phrase misconstrued and recon-
-structed as DECIO RIV G RIVRI. Year 2 has [...JMIV G RIV - IVO
+structed as DECIO RIV G RIVRI. Year 2 has [...]MIV G RIV - IVO
 and year 4 has [....][V - G - RIVRI, [....], so that the reconstruction
 DECIOMIV G RIVRI or DECIOMV G RIVRI “from the tenth G(...)
 day of Rivros” for year 1 seems safe enough. This reading can scarcely
 be doubted, once one understands that this day was transferred to its
 present location on the calendar from Rivros 10a..
 
-No TI mark is associated with this day date, as indeed no mark
+No TII mark is associated with this day date, as indeed no mark
 should occur on either Rivros 10a or 13. As we have seen, Rivros 4 was
 transferred to Rivros 10a. This transference then suggests that first
 Rivros 4 and Rivros 10a exchanged days, followed in turn by an

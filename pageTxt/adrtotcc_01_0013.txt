@@ -8,19 +8,19 @@ opposed to 1.266 days error for the sun and 0.151 days error for the
 moon in the 30-year cycle).
 
 Under the scheme of the 25-year cycle the normal sequence of
-marks TH, ITI, IIT, each falling one day apart, can be explained as an
+marks TII, ITI, IIT, each falling one day apart, can be explained as an
 indication of the regular 1-day lag in the sun in each such 25-year
 cycle. Thus the triple marks stand for a triple sequence of 3 separate
 25-year cycles. Since with each advance in a 25-year cycle the months
-all begin in a new 5-day week of the moon, the three mark-types (TH,
+all begin in a new 5-day week of the moon, the three mark-types (TII,
 ITI, IIT) also stand for a 3-fold division of each lunar fortnight (with
-3 five-day phases in each fortnight). For each new 25-year cycle the TH
+3 five-day phases in each fortnight). For each new 25-year cycle the TII
 marks then indicate the advance of the lunar-week phases as well.
 
 The nature of the TII mark thus not only indicates the 5-day
 week phase of the moon under which the months in each 25-year cycle
 begin, but the mark also denominates the cycle as a whole. Further-
-more, to the 5-day lunar-week indicated by the TI mark one can simply
+more, to the 5-day lunar-week indicated by the TII mark one can simply
 add an additional day for each 5-year phase passed through in the 25-
 year cycle to keep exact track of the moon. The TII mark then gives not
 only the number of the 25-year cycle and the corresponding fall-back

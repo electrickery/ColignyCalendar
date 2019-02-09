@@ -8,12 +8,12 @@ Before examining these other counting schemes one must first
 give an outline of the arrangement of days on the calendar. In illustrat-
 ing the sequence of variation of the 29-day and 30-day months on the
 Coligny calendar outlined here, double slanted lines // indicate a six-
-month division. [have used parentheses () around the intercalary month
+month division. I have used parentheses () around the intercalary month
 and brackets [] around Equos. The month of Equos is singled out for
 the following reason. Equos clearly has 30 days in years 1,3, and 5, yet
 it strangely has the notation ANM, found elsewhere describing only the
 29-day months. On the calendar all of the 30-day months have the
-notation MAT or MATYV. For this reason most observers of the
+notation MAT or MATV. For this reason most observers of the
 calendar have suspected that Equos had fewer than 30 days in either or
 both of years 2 and 4. In the first year of each five-year period except
 for the first year of a 25- or 30-year cycle, the Coligny calendar follows

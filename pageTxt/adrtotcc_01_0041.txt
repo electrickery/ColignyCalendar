@@ -1,6 +1,6 @@
-Reconstructed Text of the Coligny Calendar 4]
+Reconstructed Text of the Coligny Calendar 41
 
-does not normally appear. Thus the notation NS goes in place of the TI
+does not normally appear. Thus the notation NS goes in place of the TII
 mark.
 
 When NS is used in place of the TII mark, the only minor
@@ -15,7 +15,7 @@ that DS MAT or DS MA is used in place of normal D M or M D for
 *divos matus "a good day". Thus we have NSDS in place of D, NSDS
 MAT or DS MAT NS in place of D M or M D, and NSDS AMB in
 place of D AMB. The only significant notation is then N - S, *novx
-sonno, in place of the TI mark.
+sonno, in place of the TII mark.
 
 The implication is that something happens during this special
 night, the *noux sonno, to cause the sun to fall back a day with respect
@@ -26,7 +26,7 @@ it began the previous day.
 
 NS is used exclusively for the anomalous day count and in the
 three *noux sonno days transferred into the intercalary months on days
-7a, 8a, and 9a. In the first instance, it clearly takes the place of the TI
+7a, 8a, and 9a. In the first instance, it clearly takes the place of the TII
 marks. In the second instance, its function is clearly to account for the
 three days the sun is assumed to stand still at the solstice.
 
@@ -36,7 +36,7 @@ This term occurs as N INIS R, N INNIS R, and N INR. The
 distribution in the first half of the month averages 1.4 occurrences in
 the months in which it is found, falling on day 7 + 2 days. In the second
 half of the month it appears on average on 1.9 days in each month in
-which it is found, falling on day 8a + 2 days. The term does not occur
+which it is found, falling on day 8a ± 2 days. The term does not occur
 in Equos and is absent from the first half of the month in Edrinios ,
 Cantlos, and Samonios. It is absent from the second half of the month
 in Semivisonna, Equos, Elembivios, and Edrinios . When N INNIS R

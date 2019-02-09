@@ -1,4 +1,4 @@
-AO Reconstructed Text of the Coligny Calendar
+4O Reconstructed Text of the Coligny Calendar
 
 clearly indicated in the single N on Edrinios 30, which functionally
 parallels the NSDS found on Dumannios 29 and on Simivisonna 29 and
@@ -24,7 +24,7 @@ NOVX: "night".
 
 This word occurs in combination as -NVX, -NO, -VX, and
 -NOVX in TRINVX, TRINO, PETIVX, and ATENOVX and inde-
-pendently as N as outlined above. NOVX must derive from IE *nok1-t-
+pendently as N as outlined above. NOVX must derive from IE *nokų-t-
 s "night" (IEW: 762), giving Welsh nos "night" and Irish i-nnocht
 "tonight", but why a form with -ou- rather than -o- occurs on the
 calendar is uncertain (see ATENOVX, above). The use of noux rather

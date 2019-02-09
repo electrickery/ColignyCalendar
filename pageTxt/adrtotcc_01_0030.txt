@@ -13,7 +13,7 @@ ATENOVX: "(fortnight of) returning night" or "(fortnight of) increas-
 ing nighttime”.
 
 This term is used to divide each month into two fifteen-day
-periods (Irish cdéicthiges and French quinzejours “fifteen days",
+periods (Irish cóicthiges and French quinzejours “fifteen days",
 partially equitable to the English fortnight "fourteen nights"). For the
 ANM months the second fortnight has only 14 days (except for Equos
 which has 15 days in years 1, 3, and 5; 13 days in year 2; and 14 days
@@ -21,7 +21,7 @@ in year 4).
 
 Lambert (1996: 112) suggested that ATENOVX may be
 analyzed as *ateno VX, where VX stands for the number 15 and
-*ateno- stands for *ate-no yjo- “renouvellement’, thus a“‘recommence-
+*ateno- stands for *ate-noųᶖ o- “renouvellement’, thus a“‘recommence-
 ment of 15 days”. Although intriguing in isolation, this suggestion
 makes little sense in the context of the calendar, where day 15 is
 always written as XV, as in the normal usage for Roman numerals, and
@@ -37,8 +37,8 @@ night" for atenoux, perhaps after Nicholson's 1898 etymology from
 to IE *ati-"over, beyond" (IEW: 70) and would relate to Irish aith-
 "again" and Welsh at-. In the context of a calendar with enumerated
 days (and nights) it seems certain that NOVX derives from IE
-*noky-t-s "night" (IEW: 762), as in Irish i-nnocht "tonight" and Welsh
+*nokų-t-s "night" (IEW: 762), as in Irish i-nnocht "tonight" and Welsh
 nos "night". The Welsh and Irish forms suggests a derivation from
 *nokt-s (IEW: 70), which would give a Gaulish *nox. *Atenoux,
-perhaps for *atenucts, might then have developed from *atinokuts
+perhaps for *atenucts, might then have developed from *atinokųts
 

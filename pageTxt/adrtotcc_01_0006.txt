@@ -1,10 +1,10 @@
 6 Reconstructed Text of the Coligny Calendar
 
 the edge of a scaled ruler to a length of 3.0 Gaulish inches then gives
-2.76 + .02 cm per Gaulish inch for the more accurate multiple column
-widths (2.76 + .06 cm. for the individual columns). Examination of the
+2.76 ± .02 cm per Gaulish inch for the more accurate multiple column
+widths (2.76 ± .06 cm. for the individual columns). Examination of the
 mean distance between columns and month names indicates that an
-“inch” equal to 2.76 + .02 cm was utilized for all of the measurements
+“inch” equal to 2.76 ± .02 cm was utilized for all of the measurements
 on the calendar.
 
 The Roman “foot” or pes was equivalent to 29.6 cm, yielding

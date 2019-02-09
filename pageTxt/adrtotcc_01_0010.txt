@@ -4,8 +4,8 @@ transferred to Samonios 2a, labeled tri(ti)nux samo “the third night of
 Samonios” (also see Olmsted 1992: tab. 26a-28d). The TI marks and
 the N counting scheme, clearly indicated on the calendar, all show this
 same progression (see Olmsted 1992: tab. 43). Thus in Samain we have
-prinni loudin 1, prinni loudin 7, TY 13, TH 19, TH 25 //; ITT 2, ITT 8,
-ITI 14, ITI 20, ITI 26 //; WT 3, UT 9, WT 15, WT 21, WT 27. Notice in
+prinni loudin 1, prinni loudin 7, TII 13, TII 19, TII 25 //; ITI 2, ITI 8,
+ITI 14, ITI 20, ITI 26 //; IIT 3, IIT 9, IIT 15, IIT 21, IIT 27. Notice in
 the scheme the count is completed with only 5 five-year solstice dates
 rather than the 6 five-year phases of the 30-year cycle and that each
 solstice date is separated by 6 days rather than the 5 days of the 30 year
@@ -19,7 +19,7 @@ priests would have seen this as an initial 24-day fall-back to be
 recouped in four 6-day advances, one occurring in each new five-year
 phase. If the same 1-day overall fall-back in the sun was assumed in
 each 25-year cycle as the ITI marks’ advancing by 1 day show (in
-Samain TI = 1, 25, 19, 13, 7; ITI= 2, 26, 20, 14, 8; ITT = 3, 27, 21, 15,
+Samain TII = 1, 25, 19, 13, 7; ITI = 2, 26, 20, 14, 8; IIT = 3, 27, 21, 15,
 9), then the whole scheme is error with the sun by only 0.05 days in a
 25 year period. The N-count indicates the same dates as the TII scheme
 (Olmsted 1992: tabs. 20, 26a-b).
@@ -36,7 +36,7 @@ calendar. These amounts total almost exactly 1 day behind for the sun
 and 5 days ahead for the moon, a solar accuracy equivalent to the
 Gregorian calendar. But notice that if the triple marks divide each 15-
 day period indicated on the calender into 3 periods of 5 days each (the
-Old Irish céicde), then with each 25-year phase the moon would shift
+Old Irish cóicde), then with each 25-year phase the moon would shift
 into the next 5-day week. Thus TII indicates not only the first 25-year
 phase but the first 5-day week of the moon as well. ITI indicates not
 only the second 25-year phase and falls appropriately one day later in

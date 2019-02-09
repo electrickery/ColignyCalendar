@@ -36,6 +36,6 @@ LAT: *latii: "days".
 This term abbreviated as LAT occurs in the second intercalary
 month, where the number of days in the year is given as LAT
 CCCLXXXYV (385). It is clearly cognate with the Irish neuter io-stem
-laithe "day" (Thurneysen 1946: 180) derived from the IE o-stem */ Oto-
+laithe "day" (Thurneysen 1946: 180) derived from the IE o-stem *ləto-
 "day" (IEW: 680).
 

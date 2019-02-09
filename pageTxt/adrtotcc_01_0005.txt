@@ -28,17 +28,17 @@ multiple columns with interconnecting fragments yield the most
 consistent results indicating that a standard length was used to rule off
 the columns of the calendar. Ten measurements across from 2 to 5
 different columns (ave. 3.2 columns), defined by the rows of Roman
-numerals set forth for the days of the calendar, give 8.27 + .06 cm. or
-3.26 + .02 inches per column (8.20, 8.27, 8.40, 8.20, 8.24, 8.30, 8.27,
+numerals set forth for the days of the calendar, give 8.27 ± .06 cm. or
+3.26 ± .02 inches per column (8.20, 8.27, 8.40, 8.20, 8.24, 8.30, 8.27,
 8.20, 8.30, 8.27 cm. per column). The average of fourteen individual
 measures from the full-scale photographs given in RIG: III give similar
-results of 8.29 + .17 cm or 3.26 + .07 in. (3.24, 3.18, 3.30, 3.34, 3.29,
+results of 8.29 ± .17 cm or 3.26 ± .07 in. (3.24, 3.18, 3.30, 3.34, 3.29,
 3.23, 3.28, 3.16, 3.30, 3.34, 3.22, 3.38, 3.19, 3.26 in. per column) but
 with three times the margin of error.
 
 The increased margin of error across individual columns is to
 be expected if the engraver used a ruler laid out across the plate and
-marked out the columns to plus or minus one fifteenth of an inch. Ifa
+marked out the columns to plus or minus one fifteenth of an inch. If a
 movable block equal to one column in width had been used to
 established the standardized column widths, the error across three
 columns would be increased by a factor of the square root of three

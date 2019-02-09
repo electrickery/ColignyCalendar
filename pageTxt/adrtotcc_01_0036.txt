@@ -7,14 +7,14 @@ There are 60 regular months (+ 2 intercalary months) in the
 five-year period shown on the calendar. Since 30 of the 60 regular
 months are ANM (6 out of 12 in any given year), the complete PRINNI
 count would not be reached until the end of a five-year period.
-Nonetheless, by switching from the /oudin series to the laget series and
+Nonetheless, by switching from the loudin series to the laget series and
 vice versa, which adds three days at each shift, day 30 is actually
 reached in half that time.
 
 Because of its usage on a calendar, LAGET might be seen to
 be cognate with Irish Jog "flame. It also might be seen to derive from
-an extended form of IE *plo- "bright, to burn, warm" (IEW: 805),
-possibly giving Welsh go-/eu "light". But these suppositions do not suit
+an extended form of IE *plŌ- "bright, to burn, warm" (IEW: 805),
+possibly giving Welsh go-leu "light". But these suppositions do not suit
 well the fact that for 26 out of 29 days, the counting takes place in the
 six months from Giamonios to Samonios, a period when the solar
 pathway is daily apparently lowering in the sky. As we have seen,
@@ -33,8 +33,8 @@ midsummer to midwinter when the sun is daily getting lower in the sky
 or waning.
 
 Thurneysen (1899, 529) sought an etymology for LAGET in
-Irish laigiu and Welsh /lai "smaller" and in Irish Jagat "diminution,
-smallness" from IE */gyh-, Celtic *lag-, (IEW: 661), apparently
+Irish laigiu and Welsh llai "smaller" and in Irish Jagat "diminution,
+smallness" from IE *lgųh-, Celtic *lag-, (IEW: 661), apparently
 combined with the adjectival suffix -ito-. I believe he was essentially
 correct. The LAGET counting of the solar path then takes place in the
 six months of the year when the sun is declining in the sky and when

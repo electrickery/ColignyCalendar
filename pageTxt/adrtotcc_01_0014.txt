@@ -10,12 +10,12 @@ accurate in its prediction of lunar position. Indeed through this scheme
 Gaulish calendar priests developed by far the most accurate solar and
 lunar predictor in the ancient world.
 
-The major reason the TI counting schemes have been difficult
+The major reason the TII counting schemes have been difficult
 to discern is that the TII marks were shifted along with the other day
 notation in the schemes for shifting days within the months or between
 months. However, one can work out the origins of these shifted days
 precisely because each TII mark was shifted along with the rest of the
-day from its original position on the calendar. Thus the shifted TI
+day from its original position on the calendar. Thus the shifted TII
 marks are out of order with the schemes, and they can be returned to
 their original positions, since this also returns the regularity to the
 original pattern. Where these shifts do occur, the calendar indicates the
